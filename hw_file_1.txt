@@ -1,0 +1,4781 @@
+Привет!! Это моя домащка!
+
+/Users/liza
+├── Applications
+├── Bioinformatics_2025
+│   └── hw
+│       └── hw_1
+│           └── hw_file_1.txt
+├── Desktop  [error opening dir]
+├── Documents  [error opening dir]
+├── Downloads  [error opening dir]
+├── Library
+│   ├── Accounts  [error opening dir]
+│   ├── AppleMediaServices  [error opening dir]
+│   ├── Application Scripts
+│   │   ├── 243LU875E5.groups.com.apple.podcasts
+│   │   ├── 2605CCD8-5B5D-43CE-86A4-927C56EB382C
+│   │   ├── 2FXRJJ9EGT.com.vanyavpn.macos.client
+│   │   ├── 5894B443-944A-4A76-9760-1439D54961B0
+│   │   ├── 6N38VWS5BX.ru.keepcoder.Telegram
+│   │   ├── 6N38VWS5BX.ru.keepcoder.Telegram.FocusIntents
+│   │   ├── 6N38VWS5BX.ru.keepcoder.Telegram.TelegramShare
+│   │   ├── 74J34U3R6X.com.apple.iWork
+│   │   ├── 9394244B-15FB-4FAD-8AA4-A54EFAD8DBD9
+│   │   ├── Adobe-Hub-App
+│   │   ├── BJ4HAAB9B3.ZoomClient3rd
+│   │   ├── C3E8E96A-5DB8-4A7C-9B10-224CAA6A6757
+│   │   ├── CA69B760-16BD-4623-9E41-A0BEDBC82190
+│   │   ├── D836652B-CFAC-4529-9346-E7F9A7BF543F
+│   │   ├── F637D45C-B865-4BA8-B11C-C1806CC7DA72
+│   │   ├── JQ525L2MZD.com.adobe.JQ525.flags
+│   │   ├── JQ525L2MZD.com.adobe.NGL
+│   │   ├── UBF8T346G9.Office
+│   │   ├── UBF8T346G9.OfficeOneDriveSyncIntegration
+│   │   ├── UBF8T346G9.OfficeOsfWebHost
+│   │   ├── UBF8T346G9.OneDriveStandaloneSuite
+│   │   ├── UBF8T346G9.ms
+│   │   ├── ZMX9RDZH55.vpnmasterformac.group
+│   │   ├── com.adobe.accmac.ACCFinderSync
+│   │   ├── com.adobe.accmac.explinder
+│   │   ├── com.apple.AMPArtworkAgent
+│   │   ├── com.apple.AMPDeviceDiscoveryAgent
+│   │   ├── com.apple.AVConference.Diagnostic
+│   │   ├── com.apple.AboutThisMacLauncher
+│   │   ├── com.apple.Accessibility-Settings.extension
+│   │   ├── com.apple.ActionKit.BundledIntentHandler
+│   │   ├── com.apple.AddressBook
+│   │   ├── com.apple.AddressBook.ABPersonViewService
+│   │   ├── com.apple.AddressBook.ContactsAccountsService
+│   │   ├── com.apple.AddressBook.UrlForwarder
+│   │   ├── com.apple.AirDrop-Handoff-Settings.extension
+│   │   ├── com.apple.AirPlayUIAgent
+│   │   ├── com.apple.Animoji.StickersApp.MessagesExtension
+│   │   ├── com.apple.AppSSOKerberos.KerberosExtension
+│   │   ├── com.apple.AppStore
+│   │   ├── com.apple.AppStoreDaemon.ASDAskPermissionExtension
+│   │   ├── com.apple.Appearance-Settings.extension
+│   │   ├── com.apple.AppleAccountUI.AAUIFollowUpExtension
+│   │   ├── com.apple.AppleMediaServices.FollowUpExtension
+│   │   ├── com.apple.AppleMediaServicesUI.ComposeReviewExtension
+│   │   ├── com.apple.AppleMediaServicesUI.EngagementViewExtension
+│   │   ├── com.apple.AppleMediaServicesUI.SpyglassPurchases
+│   │   ├── com.apple.AppleMediaServicesUI.UtilityExtension
+│   │   ├── com.apple.AquaAppearanceHelper
+│   │   ├── com.apple.Arabesque
+│   │   ├── com.apple.AskToMessagesHost.AskToExtension
+│   │   ├── com.apple.AskToMessagesHost.AskToMessagesExtension
+│   │   ├── com.apple.AuthKit.AKDiagnosticExtension
+│   │   ├── com.apple.AuthKitUI.AKAppSSOExtension
+│   │   ├── com.apple.AuthKitUI.AKFollowUpServerUIExtension
+│   │   ├── com.apple.AutoFillPanelService
+│   │   ├── com.apple.AvatarUI.AvatarPickerMemojiEditor
+│   │   ├── com.apple.AvatarUI.AvatarPickerMemojiPicker
+│   │   ├── com.apple.AvatarUI.AvatarPickerPosePicker
+│   │   ├── com.apple.BKAgentService
+│   │   ├── com.apple.Batteries
+│   │   ├── com.apple.Batteries.BatteriesAvocadoWidgetExtension
+│   │   ├── com.apple.Battery-Settings.extension
+│   │   ├── com.apple.BluetoothFileExchange
+│   │   ├── com.apple.BluetoothSettings
+│   │   ├── com.apple.BluetoothSetupAssistant
+│   │   ├── com.apple.CD-DVD-Settings.extension
+│   │   ├── com.apple.CMViewSrvc
+│   │   ├── com.apple.CalendarAgent
+│   │   ├── com.apple.CalendarFileHandler
+│   │   ├── com.apple.CalendarNotification.CalNCService
+│   │   ├── com.apple.CalendarUI.SpotlightEventPreview
+│   │   ├── com.apple.CalendarWeatherKitService
+│   │   ├── com.apple.CalendarWidget.IntentsExtension
+│   │   ├── com.apple.CaptiveNetworkAssistant
+│   │   ├── com.apple.Chess
+│   │   ├── com.apple.ClassKit-Settings.extension
+│   │   ├── com.apple.ClassKit.diagnosticextension
+│   │   ├── com.apple.Classroom-Settings.extension
+│   │   ├── com.apple.CloudDocs.MobileDocumentsFileProvider
+│   │   ├── com.apple.CloudDocs.MobileDocumentsFileProviderManaged
+│   │   ├── com.apple.CloudDocs.iCloudDriveFileProvider
+│   │   ├── com.apple.CloudDocs.iCloudDriveFileProviderManaged
+│   │   ├── com.apple.CloudDocsDaemon.StorageManagement
+│   │   ├── com.apple.CloudDocsDaemon.diagnostic
+│   │   ├── com.apple.CloudDocsDaemon.telemetry-disk-checker
+│   │   ├── com.apple.CloudPhotosConfiguration
+│   │   ├── com.apple.CloudSharingUI.CopyLink
+│   │   ├── com.apple.CloudSharingUI.invite
+│   │   ├── com.apple.CommerceKit.AskPermissionExtension
+│   │   ├── com.apple.ConfigurationProfiles.FollowUp
+│   │   ├── com.apple.ContactsAgent
+│   │   ├── com.apple.ContactsUI.ContactPickerService
+│   │   ├── com.apple.ContactsUI.ContactViewViewService
+│   │   ├── com.apple.ContactsUI.ContactsViewService
+│   │   ├── com.apple.ContinuityCaptureOnboardingUI
+│   │   ├── com.apple.ControlCenter-Settings.extension
+│   │   ├── com.apple.CoreCDPUI.CDPFollowUpExtension
+│   │   ├── com.apple.CoreHapticsTools.HapticsQLPreviewExtension
+│   │   ├── com.apple.CoreHapticsTools.HapticsQLThumbnailExtension
+│   │   ├── com.apple.CoreHapticsTools.QLPreviewExtension
+│   │   ├── com.apple.CoreHapticsTools.QLThumbnailExtension
+│   │   ├── com.apple.CoreRoutine.RTDiagnosticExtension
+│   │   ├── com.apple.CoreRoutine.helperservice
+│   │   ├── com.apple.CoreSpotlight.ImportExtension
+│   │   ├── com.apple.Coverage-Settings.extension
+│   │   ├── com.apple.CryptoTokenKit.ctkcard.ctkcardtoken
+│   │   ├── com.apple.CryptoTokenKit.pivtoken
+│   │   ├── com.apple.CryptoTokenKit.setoken
+│   │   ├── com.apple.DataDetectorsActionService
+│   │   ├── com.apple.DataDetectorsLocalSources
+│   │   ├── com.apple.DataDetectorsViewService
+│   │   ├── com.apple.Date-Time-Settings.extension
+│   │   ├── com.apple.Desktop-Settings.extension
+│   │   ├── com.apple.DeviceActivityUI.DeviceActivityReportService
+│   │   ├── com.apple.DiagnosticExtensions.AirPlay
+│   │   ├── com.apple.DiagnosticExtensions.BluetoothHeadset
+│   │   ├── com.apple.DiagnosticExtensions.HIDSensingDiagnosticExtension
+│   │   ├── com.apple.DiagnosticExtensions.HomeEnergyDiagnosticExtension
+│   │   ├── com.apple.DiagnosticExtensions.IntelligentRoutingDiagnostic
+│   │   ├── com.apple.DiagnosticExtensions.PICSDiagnosticExtension
+│   │   ├── com.apple.DiagnosticExtensions.WiFi
+│   │   ├── com.apple.DiagnosticExtensions.shortcuts
+│   │   ├── com.apple.DiagnosticExtensions.sysdiagnose
+│   │   ├── com.apple.Dictionary
+│   │   ├── com.apple.DiscHelper
+│   │   ├── com.apple.DiskSpaceDiagnostics.diagnosticextension
+│   │   ├── com.apple.Displays-Settings.extension
+│   │   ├── com.apple.DoNotDisturb.Intents
+│   │   ├── com.apple.ExtensionsPreferences
+│   │   ├── com.apple.FaceTime
+│   │   ├── com.apple.FaceTime.FaceTimeNotificationCenterService
+│   │   ├── com.apple.FaceTime.FaceTimeNotificationExtension
+│   │   ├── com.apple.FaceTime.IntentsExtension
+│   │   ├── com.apple.FaceTime.RemotePeoplePicker
+│   │   ├── com.apple.FaceTime.ShareExtension
+│   │   ├── com.apple.Family
+│   │   ├── com.apple.Family-Settings.extension
+│   │   ├── com.apple.FamilyControlsAgent
+│   │   ├── com.apple.Feedback.DraftingExtension
+│   │   ├── com.apple.Flurry
+│   │   ├── com.apple.Focus-Settings.extension
+│   │   ├── com.apple.FollowUpSettings.FollowUpSettingsExtension
+│   │   ├── com.apple.FontBook
+│   │   ├── com.apple.Game-Center-Settings.extension
+│   │   ├── com.apple.Game-Controller-Settings.extension
+│   │   ├── com.apple.GamePolicyMenuExtraService
+│   │   ├── com.apple.HeadphoneSettings
+│   │   ├── com.apple.Home
+│   │   ├── com.apple.Home.HomeDiagnosticExtension
+│   │   ├── com.apple.Home.HomeEnergyWidgets
+│   │   ├── com.apple.Home.HomeUIUserList
+│   │   ├── com.apple.Home.HomeWidget
+│   │   ├── com.apple.Home.HomeWidget.Interactive
+│   │   ├── com.apple.Home.group
+│   │   ├── com.apple.HydraQLPreviewExtension
+│   │   ├── com.apple.HydraQLThumbnailExtension
+│   │   ├── com.apple.IOUIAgent
+│   │   ├── com.apple.IPAInstaller
+│   │   ├── com.apple.ImageIO.imageimporter
+│   │   ├── com.apple.ImageKit.RecentPictureService
+│   │   ├── com.apple.Internet-Accounts-Settings.extension
+│   │   ├── com.apple.KerberosMenuExtra
+│   │   ├── com.apple.Keyboard-Settings.extension
+│   │   ├── com.apple.LighthouseBitacoraFramework.BitacoraWorker
+│   │   ├── com.apple.LighthouseBitacoraFramework.LighthouseBitacoraPlugin
+│   │   ├── com.apple.LinkedNotesUIService
+│   │   ├── com.apple.Localization-Settings.extension
+│   │   ├── com.apple.Lock-Screen-Settings.extension
+│   │   ├── com.apple.LoginItems-Settings.extension
+│   │   ├── com.apple.LoginUserService
+│   │   ├── com.apple.LookupViewService
+│   │   ├── com.apple.MailCacheDelete
+│   │   ├── com.apple.MailPersonaStorage
+│   │   ├── com.apple.MailServiceAgent
+│   │   ├── com.apple.MailShareExtension
+│   │   ├── com.apple.MailShortcutsExtension
+│   │   ├── com.apple.ManagedSettings.ManagedSettingsMacOSExtension
+│   │   ├── com.apple.Maps
+│   │   ├── com.apple.MarkupUI.Markup
+│   │   ├── com.apple.MarkupUI.MarkupPhotoExtension
+│   │   ├── com.apple.MediaLibraryService
+│   │   ├── com.apple.MediaMLPluginApp.MediaMLPlugin
+│   │   ├── com.apple.MediaPlayer.DiagnosticExtension
+│   │   ├── com.apple.MessageUIMacHelperService
+│   │   ├── com.apple.MessagesLegacyTransferArchive
+│   │   ├── com.apple.MobileSMS
+│   │   ├── com.apple.MobileSMS.MessagesActionExtension
+│   │   ├── com.apple.MobileSMS.MessagesPluginNotificationExtension
+│   │   ├── com.apple.MobileSMS.spotlight
+│   │   ├── com.apple.Mouse-Settings.extension
+│   │   ├── com.apple.Music.MPMusicPlayerApplicationControllerInternal
+│   │   ├── com.apple.Music.MusicCacheExtension
+│   │   ├── com.apple.Music.MusicStorageExtension
+│   │   ├── com.apple.Network-Settings.extension
+│   │   ├── com.apple.NetworkExtension.IKEv2Provider
+│   │   ├── com.apple.NetworkExtensionSettingsUI.NESettingsUIExtension
+│   │   ├── com.apple.NewDeviceOutreachMac.Extension
+│   │   ├── com.apple.Notes
+│   │   ├── com.apple.Notes.HTMLConverter
+│   │   ├── com.apple.Notes.IntentsExtension
+│   │   ├── com.apple.Notes.LPPreviewGenerator
+│   │   ├── com.apple.Notes.NotesImporter
+│   │   ├── com.apple.Notes.QuickLookExtension
+│   │   ├── com.apple.Notes.SharingExtension
+│   │   ├── com.apple.Notes.SpotlightIndexExtension
+│   │   ├── com.apple.Notes.WidgetExtension
+│   │   ├── com.apple.Notes.datastore
+│   │   ├── com.apple.Notifications-Settings.extension
+│   │   ├── com.apple.OBEXAgent
+│   │   ├── com.apple.OFDPreview
+│   │   ├── com.apple.OFDThumbnail
+│   │   ├── com.apple.OSDUIHelper
+│   │   ├── com.apple.PDFKit.PDFExtensionView
+│   │   ├── com.apple.PDFKit.PDFImporter
+│   │   ├── com.apple.PaperKit.Extension
+│   │   ├── com.apple.Pass-Viewer
+│   │   ├── com.apple.PassKit.PaymentAuthorizationUIExtension
+│   │   ├── com.apple.PassKitUIXPCService
+│   │   ├── com.apple.PassbookUIService.PeerPaymentMessagesExtension
+│   │   ├── com.apple.Passwords-Settings.extension
+│   │   ├── com.apple.PeopleMessageService.AskToBuy
+│   │   ├── com.apple.PeopleMessageService.LegacyMessageService
+│   │   ├── com.apple.PeopleMessageService.ScreenTime
+│   │   ├── com.apple.PeopleViewService
+│   │   ├── com.apple.PeopleViewService.PeopleWidget-macOS
+│   │   ├── com.apple.PeopleViewService.SelectPerson-iOS
+│   │   ├── com.apple.PhotoBooth
+│   │   ├── com.apple.PhotoLibraryMigrationUtility
+│   │   ├── com.apple.PhotoLibraryServices.PhotosDiagnostics
+│   │   ├── com.apple.PhotoThemeService
+│   │   ├── com.apple.Photos
+│   │   ├── com.apple.Photos.MacMusicPickerExtension
+│   │   ├── com.apple.Photos.Migration
+│   │   ├── com.apple.Photos.Migration.Reader
+│   │   ├── com.apple.Photos.PhotosFileProvider
+│   │   ├── com.apple.Photos.PhotosReliveWidget
+│   │   ├── com.apple.Photos.PhotosReliveWidgetIntents
+│   │   ├── com.apple.Photos.PhotosSiriExtension
+│   │   ├── com.apple.Photos.StorageManagementExtension
+│   │   ├── com.apple.Photos.librarychooserservice
+│   │   ├── com.apple.PlatformSSOToken
+│   │   ├── com.apple.PressAndHold
+│   │   ├── com.apple.Preview
+│   │   ├── com.apple.PreviewLegacySignaturesConversion
+│   │   ├── com.apple.Print-Scan-Settings.extension
+│   │   ├── com.apple.Profiles-Settings.extension
+│   │   ├── com.apple.QuickLookThumbnailing.extension.ThumbnailExtension-macOS
+│   │   ├── com.apple.QuickLookUIFramework.QLPreviewGenerationExtension
+│   │   ├── com.apple.QuickTimePlayerX
+│   │   ├── com.apple.RAQLPreviewExtension
+│   │   ├── com.apple.RAQLThumbnailExtension
+│   │   ├── com.apple.RelativeMotion.TempestDiagnosticExtension
+│   │   ├── com.apple.ReminderKitUI.ReminderCreationViewService
+│   │   ├── com.apple.RemoteManagement.AccountExtension
+│   │   ├── com.apple.RemoteManagement.InteractiveLegacyProfilesExtension
+│   │   ├── com.apple.RemoteManagement.LegacyProfilesExtension
+│   │   ├── com.apple.RemoteManagement.ManagementTestExtension
+│   │   ├── com.apple.RemoteManagement.PasscodeSettingsExtension
+│   │   ├── com.apple.RemoteManagementMCXService
+│   │   ├── com.apple.SSMenuAgent
+│   │   ├── com.apple.STMExtension.AppleInternal
+│   │   ├── com.apple.STMExtension.Applications
+│   │   ├── com.apple.STMExtension.CloudFiles
+│   │   ├── com.apple.STMExtension.Developer
+│   │   ├── com.apple.STMExtension.GarageBand
+│   │   ├── com.apple.STMExtension.Mail
+│   │   ├── com.apple.STMExtension.OtherUsers
+│   │   ├── com.apple.STMExtension.Trash
+│   │   ├── com.apple.STMExtension.iOSFiles
+│   │   ├── com.apple.STMFramework.UIHelper
+│   │   ├── com.apple.Safari
+│   │   ├── com.apple.Safari.BrowserDataImportingService
+│   │   ├── com.apple.Safari.CacheDeleteExtension
+│   │   ├── com.apple.Safari.DiagnosticExtension
+│   │   ├── com.apple.Safari.SafariLinkExtension
+│   │   ├── com.apple.Safari.SafariQuickLookPreview
+│   │   ├── com.apple.Safari.SafariWidgetExtension
+│   │   ├── com.apple.SafariFoundation.CredentialProviderExtensionHelper
+│   │   ├── com.apple.SafariPlatformSupport.Helper
+│   │   ├── com.apple.SceneKitQLPreviewExtension
+│   │   ├── com.apple.SceneKitQLThumbnailExtension
+│   │   ├── com.apple.Screen-Time-Settings.extension
+│   │   ├── com.apple.ScreenSaver-Settings.extension
+│   │   ├── com.apple.ScreenSaver.Computer-Name
+│   │   ├── com.apple.ScreenSaver.Drift
+│   │   ├── com.apple.ScreenSaver.Engine
+│   │   ├── com.apple.ScreenSaver.Engine.legacyScreenSaver
+│   │   ├── com.apple.ScreenSaver.Engine.legacyScreenSaver.x86-64
+│   │   ├── com.apple.ScreenSaver.Hello
+│   │   ├── com.apple.ScreenSaver.Monterey
+│   │   ├── com.apple.ScreenSaver.Ventura
+│   │   ├── com.apple.ScreenSaver.iLife-Slideshow-Extension
+│   │   ├── com.apple.ScreenSharing
+│   │   ├── com.apple.ScreenTime.ScreenTimeWebExtension
+│   │   ├── com.apple.ScreenTimeAgent
+│   │   ├── com.apple.ScreenTimeUI.ScreenTimeReportExtension
+│   │   ├── com.apple.ScreenTimeViewService
+│   │   ├── com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
+│   │   ├── com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetIntentsExtension
+│   │   ├── com.apple.Sharing-Settings.extension
+│   │   ├── com.apple.Shell
+│   │   ├── com.apple.Siri
+│   │   ├── com.apple.Siri-Settings.extension
+│   │   ├── com.apple.SiriNCService
+│   │   ├── com.apple.SiriUI.SiriUISetupXPC
+│   │   ├── com.apple.SmartReplies.SmartRepliesMLRuntimePlugin
+│   │   ├── com.apple.Software-Update-Settings.extension
+│   │   ├── com.apple.SonicKit
+│   │   ├── com.apple.SonicKit.diagnostics
+│   │   ├── com.apple.Sound-Settings.extension
+│   │   ├── com.apple.Startup-Disk-Settings.extension
+│   │   ├── com.apple.Stickers.UserGenerated.MessagesExtension
+│   │   ├── com.apple.Stickies
+│   │   ├── com.apple.StickiesMigration
+│   │   ├── com.apple.StorageManagement.CloudStorageHelper
+│   │   ├── com.apple.StorageManagement.MessagesHelper
+│   │   ├── com.apple.StorageManagementLauncher
+│   │   ├── com.apple.StoreKit.SKAskPermissionExtension
+│   │   ├── com.apple.StoreKit.UIService
+│   │   ├── com.apple.SystemProfiler.AboutExtension
+│   │   ├── com.apple.SystemProfiler.CloudStorageHelper
+│   │   ├── com.apple.SystemProfiler.CloudStorageUIHelper
+│   │   ├── com.apple.SystemProfiler.MessagesHelper
+│   │   ├── com.apple.TV.TVCacheExtension
+│   │   ├── com.apple.TV.TVStorageExtension
+│   │   ├── com.apple.TelephonyUtilities.PhoneIntentHandler
+│   │   ├── com.apple.TextEdit
+│   │   ├── com.apple.TextToSpeechVoiceBankingSupport.VoiceBankingDiagnostics
+│   │   ├── com.apple.Time-Machine-Settings.extension
+│   │   ├── com.apple.Touch-ID-Settings.extension
+│   │   ├── com.apple.Trackpad-Settings.extension
+│   │   ├── com.apple.Transfer-Reset-Settings.extension
+│   │   ├── com.apple.TranslationUIServices.TranslationUIService
+│   │   ├── com.apple.TransparencyUI.FollowUpExtension
+│   │   ├── com.apple.UIUnderstanding.diagnosticextension
+│   │   ├── com.apple.UniversalAccess.UASettingsShortcuts
+│   │   ├── com.apple.UsageTrackingAgent
+│   │   ├── com.apple.Users-Groups-Settings.extension
+│   │   ├── com.apple.VideoSubscriberAccount.VideoSubscriberAccountUIFramework.AuthenticationExtension
+│   │   ├── com.apple.VoiceMemos
+│   │   ├── com.apple.VoiceMemos.SpotlightIndexExtension
+│   │   ├── com.apple.VoiceMemos.VoiceMemosIntentsExtension
+│   │   ├── com.apple.WalletSettingsExtension
+│   │   ├── com.apple.Wallpaper-Settings.extension
+│   │   ├── com.apple.WatchFaceAlert
+│   │   ├── com.apple.WatchFaceAlert.ThumbnailExtension
+│   │   ├── com.apple.WordOfTheDay
+│   │   ├── com.apple.WorkflowKit.CatalystHelper
+│   │   ├── com.apple.WorkflowKit.ShortcutsIntents
+│   │   ├── com.apple.WorkflowKit.ShortcutsViewService
+│   │   ├── com.apple.WorkflowUI.AddShortcutExtension
+│   │   ├── com.apple.WorkflowUI.CatalystContentExtension
+│   │   ├── com.apple.WorkflowUI.WidgetConfigurationExtension
+│   │   ├── com.apple.accessibility.heard
+│   │   ├── com.apple.accessibility.mediaaccessibilityd
+│   │   ├── com.apple.aiml.RepackagingWorker
+│   │   ├── com.apple.amp.devicesui
+│   │   ├── com.apple.ap.PromotedContentPrediction.APOdmlSearchResultsExtension
+│   │   ├── com.apple.appkit.xpc.ColorPickerImageLoader
+│   │   ├── com.apple.appkit.xpc.ColorSampler
+│   │   ├── com.apple.appkit.xpc.LegacyExternalColorPickerService.arm64
+│   │   ├── com.apple.appkit.xpc.LegacyExternalColorPickerService.x86_64
+│   │   ├── com.apple.appkit.xpc.WindowSharingControlViewService
+│   │   ├── com.apple.appleseed.FeedbackAssistant
+│   │   ├── com.apple.archiveutility
+│   │   ├── com.apple.archiveutility.auquarantineservice
+│   │   ├── com.apple.ax.KonaTTSSupport.KonaSynthesizer
+│   │   ├── com.apple.ax.MauiTTSSupport.MauiAUSP
+│   │   ├── com.apple.biome.BiomeStreams.BiomeLighthousePlugin
+│   │   ├── com.apple.bird
+│   │   ├── com.apple.calculator
+│   │   ├── com.apple.calendar.CalendarFocusConfigurationExtension
+│   │   ├── com.apple.calendar.EventKitUIRemoteUIExtension
+│   │   ├── com.apple.clock.WorldClockWidget
+│   │   ├── com.apple.contacts.donation-agent
+│   │   ├── com.apple.coremedia.pluginformatreader
+│   │   ├── com.apple.coremedia.pluginformatreader.zonto
+│   │   ├── com.apple.corerecents.recentsd
+│   │   ├── com.apple.das.DASDaemon.DuetDiagnosticExtension
+│   │   ├── com.apple.diagnosticextensions.osx.filevault
+│   │   ├── com.apple.diagnosticextensions.osx.getmobilityinfo
+│   │   ├── com.apple.diagnosticextensions.osx.installlog
+│   │   ├── com.apple.diagnosticextensions.osx.maillogs
+│   │   ├── com.apple.diagnosticextensions.osx.spotlight
+│   │   ├── com.apple.diagnosticextensions.osx.syslog
+│   │   ├── com.apple.diagnosticextensions.osx.systemprofile
+│   │   ├── com.apple.diagnosticextensions.osx.timemachine
+│   │   ├── com.apple.diagnosticextensions.osx.wifi
+│   │   ├── com.apple.diskspaced
+│   │   ├── com.apple.dp.PrivateFederatedLearning.DPMLRuntimePlugin
+│   │   ├── com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginClassB
+│   │   ├── com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginNonDnU
+│   │   ├── com.apple.dt.AutomationModeUI
+│   │   ├── com.apple.eventMetaDataExtractor.eventMetaDataExtractorPlugin
+│   │   ├── com.apple.eventkit.CalendarDiagnosticExtension
+│   │   ├── com.apple.extensionkit.AppExtensionManagement
+│   │   ├── com.apple.family.FAFollowupExtension
+│   │   ├── com.apple.finder.CreatePDFQuickAction
+│   │   ├── com.apple.finder.MarkupQuickAction
+│   │   ├── com.apple.finder.RotateQuickAction
+│   │   ├── com.apple.finder.TrimQuickAction
+│   │   ├── com.apple.findmy
+│   │   ├── com.apple.findmy.FindMyNotificationsServiceExtension
+│   │   ├── com.apple.findmy.FindMyWidgetIntentsItems
+│   │   ├── com.apple.findmy.FindMyWidgetIntentsPeople
+│   │   ├── com.apple.findmy.FindMyWidgetItems
+│   │   ├── com.apple.findmy.FindMyWidgetPeople
+│   │   ├── com.apple.freeform
+│   │   ├── com.apple.freeform.USDRendererExtension
+│   │   ├── com.apple.freeform.sharingextension
+│   │   ├── com.apple.fskit.exfat
+│   │   ├── com.apple.fskit.msdos
+│   │   ├── com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension
+│   │   ├── com.apple.garageband10
+│   │   ├── com.apple.geod
+│   │   ├── com.apple.grapher
+│   │   ├── com.apple.helpviewer
+│   │   ├── com.apple.helpviewer.HelpViewer-Quicklook
+│   │   ├── com.apple.iBooks.BooksNotificationContentExtension
+│   │   ├── com.apple.iBooks.engagementExtension
+│   │   ├── com.apple.iBooks.iBooksSpotlightExtension
+│   │   ├── com.apple.iBooksX
+│   │   ├── com.apple.iBooksX.BooksThumbnail
+│   │   ├── com.apple.iBooksX.CacheDelete
+│   │   ├── com.apple.iBooksX.DiskSpaceEfficiency
+│   │   ├── com.apple.iBooksX.SharingExtension
+│   │   ├── com.apple.iCal
+│   │   ├── com.apple.iCal.CalendarNotificationContentExtention-OSX
+│   │   ├── com.apple.iCal.CalendarWidgetExtension
+│   │   ├── com.apple.iCal.FaceTimeExtension
+│   │   ├── com.apple.iCloudDriveCore.telemetry-disk-checker
+│   │   ├── com.apple.iCloudQuota.ICQFollowup
+│   │   ├── com.apple.iMovieApp
+│   │   ├── com.apple.iWork.ExternalResourceAccessor
+│   │   ├── com.apple.iWork.ExternalResourceValidator
+│   │   ├── com.apple.iWork.Keynote
+│   │   ├── com.apple.iWork.Numbers
+│   │   ├── com.apple.iWork.Pages
+│   │   ├── com.apple.iWork.Pages.EndNoteShim
+│   │   ├── com.apple.ibooks.BookLibrary.BooksDiagnosticExtension
+│   │   ├── com.apple.ibooks.BookLibraryCore.BooksAskPermissionExtension
+│   │   ├── com.apple.icloud.SPOwner.SearchPartyDiagnosticExtension
+│   │   ├── com.apple.icloud.apps.messages.business.extension
+│   │   ├── com.apple.icloud.searchpartyd.container.appGroup
+│   │   ├── com.apple.inputmethod.ChineseHandwriting
+│   │   ├── com.apple.inputmethod.EmojiFunctionRowItem
+│   │   ├── com.apple.inputmethod.HindiIM
+│   │   ├── com.apple.inputmethod.Korean
+│   │   ├── com.apple.inputmethod.Kotoeri.KanaTyping
+│   │   ├── com.apple.inputmethod.Kotoeri.RomajiTyping
+│   │   ├── com.apple.inputmethod.SCIM
+│   │   ├── com.apple.inputmethod.TCIM
+│   │   ├── com.apple.inputmethod.TYIM
+│   │   ├── com.apple.inputmethod.TransliterationIM
+│   │   ├── com.apple.inputmethod.VietnameseIM
+│   │   ├── com.apple.intelligenceplatform.IntelligencePlatform.DiagnosticExtension
+│   │   ├── com.apple.internal.DataDetectorsRemoteScanner
+│   │   ├── com.apple.iwork.ArchiveUpgrader
+│   │   ├── com.apple.languageassetd
+│   │   ├── com.apple.lighthouse.SiriCoreMetricsWorker
+│   │   ├── com.apple.mail
+│   │   ├── com.apple.mail.MailNotificationContentExtension
+│   │   ├── com.apple.mail.MailQuickLookExtension
+│   │   ├── com.apple.mail.SpotlightIndexExtension
+│   │   ├── com.apple.mcx.ProfileHelper
+│   │   ├── com.apple.mediaanalysisd
+│   │   ├── com.apple.mediastream.mstreamd
+│   │   ├── com.apple.messages
+│   │   ├── com.apple.messages.AssistantExtension
+│   │   ├── com.apple.messages.MapRenderingService
+│   │   ├── com.apple.messages.ReplyExtension
+│   │   ├── com.apple.messages.ShareExtension
+│   │   ├── com.apple.messages.StorageManagementExtension
+│   │   ├── com.apple.mlhost.CloudWorker
+│   │   ├── com.apple.mlhost.SampleWorker
+│   │   ├── com.apple.mlhost.TelemetryWorker
+│   │   ├── com.apple.mobileslideshow.photo-picker
+│   │   ├── com.apple.mobileslideshow.photospicker
+│   │   ├── com.apple.mobiletimer
+│   │   ├── com.apple.mobiletimer-framework.MobileTimerIntents
+│   │   ├── com.apple.mobiletimer.WorldClockWidget
+│   │   ├── com.apple.news
+│   │   ├── com.apple.news.articlenotificationextension
+│   │   ├── com.apple.news.engagementExtension
+│   │   ├── com.apple.news.openinnews
+│   │   ├── com.apple.news.tag
+│   │   ├── com.apple.news.widget
+│   │   ├── com.apple.news.widgetintents
+│   │   ├── com.apple.notificationcenterui
+│   │   ├── com.apple.osanalytics.IPSExtension
+│   │   ├── com.apple.osx-tailspin
+│   │   ├── com.apple.photoanalysisd
+│   │   ├── com.apple.photolibraryd
+│   │   ├── com.apple.photos.ImageConversionService
+│   │   ├── com.apple.photos.VideoConversionService
+│   │   ├── com.apple.podcasts
+│   │   ├── com.apple.podcasts.MacPodcastsStorageExtension
+│   │   ├── com.apple.podcasts.MacQuicklookExtension
+│   │   ├── com.apple.podcasts.PodcastsAuthAgent
+│   │   ├── com.apple.podcasts.PodcastsNotificationExtension
+│   │   ├── com.apple.podcasts.SpotlightIndexExtension
+│   │   ├── com.apple.podcasts.widget
+│   │   ├── com.apple.preferencepane.security.AdvertisingExtension
+│   │   ├── com.apple.preferencepane.security.PrivacyAnalytics
+│   │   ├── com.apple.preferencepane.security.PrivacyTrackingAwareness.PrivacyPhotos
+│   │   ├── com.apple.preferences.sharing.SharingBluetoothService
+│   │   ├── com.apple.preferences.sharing.SharingPrefsExtension
+│   │   ├── com.apple.proactive.PersonalUnderstanding.LighthousePlugin
+│   │   ├── com.apple.quicklook.QuickLookUIService
+│   │   ├── com.apple.quicklook.ui.helper
+│   │   ├── com.apple.reminders
+│   │   ├── com.apple.reminders.WidgetExtension
+│   │   ├── com.apple.reminders.macOSIntentsExtension
+│   │   ├── com.apple.reminders.quicklookextension
+│   │   ├── com.apple.reminders.sharingextension
+│   │   ├── com.apple.replayKit.RPBroadcastActivityExtension-macOS
+│   │   ├── com.apple.replayKit.RPVideoEditorExtension-macOS
+│   │   ├── com.apple.routined
+│   │   ├── com.apple.scenekit.SCNSceneLoader
+│   │   ├── com.apple.screensaver.AlbumArtwork
+│   │   ├── com.apple.settings.PrivacySecurity.extension
+│   │   ├── com.apple.settings.Storage
+│   │   ├── com.apple.share.AirDrop.send
+│   │   ├── com.apple.share.CloudSharing.invite
+│   │   ├── com.apple.share.CopyLink.invite
+│   │   ├── com.apple.share.Mail.compose
+│   │   ├── com.apple.share.Mail.compose-back-to-sender
+│   │   ├── com.apple.share.Messages.window
+│   │   ├── com.apple.share.System.add-to-iphoto
+│   │   ├── com.apple.share.System.add-to-safari-reading-list
+│   │   ├── com.apple.share.System.set-account-picture
+│   │   ├── com.apple.share.System.set-desktop-image
+│   │   ├── com.apple.sharing.ShareSheetUI
+│   │   ├── com.apple.shortcuts
+│   │   ├── com.apple.shortcuts.QuickLookExtension
+│   │   ├── com.apple.shortcuts.Run-Workflow
+│   │   ├── com.apple.shortcuts.ShortcutsWidget
+│   │   ├── com.apple.shortcuts.ThumbnailExtension
+│   │   ├── com.apple.shortcuts.events
+│   │   ├── com.apple.sidecar.DisplayMarkup
+│   │   ├── com.apple.siri.DeepSyncVerificationService
+│   │   ├── com.apple.siri.SiriAppLaunchIntents.AppLaunchIntentExtension
+│   │   ├── com.apple.siri.SiriContactsIntents.ContactsIntentExtension
+│   │   ├── com.apple.siri.SiriGeo.SiriGeoIntentExtension
+│   │   ├── com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegmentation
+│   │   ├── com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegments.Plugin
+│   │   ├── com.apple.siri.SiriSettingsIntents.SettingsIntentExtension
+│   │   ├── com.apple.siri.SiriSignals.MusicAppSelectionPFLPlugin
+│   │   ├── com.apple.siri.SiriSuggestionsLightHousePlugin
+│   │   ├── com.apple.siri.SiriTimeInternal.AlarmIntentsExtension
+│   │   ├── com.apple.siri.SiriTimeInternal.TimerIntentsExtension
+│   │   ├── com.apple.siri.SiriVideoIntents.VideoIntentExtension
+│   │   ├── com.apple.siri.media-indexer
+│   │   ├── com.apple.siri.metrics.DevicePropertiesExtension
+│   │   ├── com.apple.siri.metrics.ExperimentationExtension
+│   │   ├── com.apple.siri.metrics.MetricsExtension
+│   │   ├── com.apple.siri.parsec.CoreParsec.SearchPoirotExtension
+│   │   ├── com.apple.siri.parsec.HashtagImagesApp.HashtagImagesExtension
+│   │   ├── com.apple.siriplugin.FileSearch
+│   │   ├── com.apple.speech.MacinTalkFramework.MacinTalkAUSP
+│   │   ├── com.apple.speech.MacinTalkFramework.WardaSynthesizer.arm64
+│   │   ├── com.apple.speech.MacinTalkFramework.WardaSynthesizer.x86-64
+│   │   ├── com.apple.speech.SpeechSynthesisServerXPC
+│   │   ├── com.apple.ssinvitationagent
+│   │   ├── com.apple.stocks
+│   │   ├── com.apple.stocks.detailintents
+│   │   ├── com.apple.stocks.widget
+│   │   ├── com.apple.system.airplay
+│   │   ├── com.apple.systempreferences
+│   │   ├── com.apple.systempreferences.AppleIDSettings
+│   │   ├── com.apple.systempreferences.GeneralSettings
+│   │   ├── com.apple.systempreferences.SpotlightIndexExtension
+│   │   ├── com.apple.systempreferences.cache
+│   │   ├── com.apple.texttospeech.SiriAUSP
+│   │   ├── com.apple.tips
+│   │   ├── com.apple.tips.TipsAppQuicklook-macOS
+│   │   ├── com.apple.tips.Widget
+│   │   ├── com.apple.tonelibraryd
+│   │   ├── com.apple.videoapps.OOPDebayerService
+│   │   ├── com.apple.voicebankingd
+│   │   ├── com.apple.wallpaper.extension.ca-package
+│   │   ├── com.apple.wallpaper.extension.dynamic
+│   │   ├── com.apple.wallpaper.extension.gradient
+│   │   ├── com.apple.wallpaper.extension.image
+│   │   ├── com.apple.wallpaper.extension.monterey
+│   │   ├── com.apple.wallpaper.extension.ventura
+│   │   ├── com.apple.wallpaper.extension.video
+│   │   ├── com.apple.weather
+│   │   ├── com.apple.weather.WeatherIntents
+│   │   ├── com.apple.weather.diagnosticextension
+│   │   ├── com.apple.weather.widget
+│   │   ├── com.apple.widgetkit.simulator
+│   │   ├── com.apple.wifi-settings-extension
+│   │   ├── com.apple.wifiqa.NPTKit.NPTWiFiDiagnosticsExtension
+│   │   ├── com.apple.windowmanager.ShowDesktopEducation
+│   │   ├── com.apple.windowmanager.StageManagerOnboarding
+│   │   ├── com.inconnecting.turbovpnformac
+│   │   ├── com.inconnecting.turbovpnformac.tunnel
+│   │   ├── com.inconnecting.turbovpnformac.tunnel-ssr
+│   │   ├── com.microsoft.Excel
+│   │   ├── com.microsoft.Microsoft-Mashup-Container
+│   │   ├── com.microsoft.OneDrive-mac.FileProvider
+│   │   ├── com.microsoft.OneDrive-mac.FinderSync
+│   │   ├── com.microsoft.OneDrive.FileProvider
+│   │   ├── com.microsoft.OneDrive.FinderSync
+│   │   ├── com.microsoft.OneDriveLauncher
+│   │   ├── com.microsoft.Outlook
+│   │   ├── com.microsoft.Outlook.CalendarWidget
+│   │   ├── com.microsoft.Powerpoint
+│   │   ├── com.microsoft.SkyDriveLauncher
+│   │   ├── com.microsoft.Word
+│   │   ├── com.microsoft.errorreporting
+│   │   ├── com.microsoft.onenote.mac
+│   │   ├── com.microsoft.onenote.mac.shareextension
+│   │   ├── com.microsoft.openxml.excel.app
+│   │   ├── com.microsoft.outlook.profilemanager
+│   │   ├── com.vanyavpn.macos.client
+│   │   ├── com.vanyavpn.macos.client.VpnExtension
+│   │   ├── com.vanyavpn.macos.client.launcher
+│   │   ├── group.airapps.shared
+│   │   ├── group.com.apple.AppleSpell
+│   │   ├── group.com.apple.CloudDocs
+│   │   ├── group.com.apple.DeviceActivity
+│   │   ├── group.com.apple.FamilyControls
+│   │   ├── group.com.apple.KerberosExtension
+│   │   ├── group.com.apple.ManagedSettings
+│   │   ├── group.com.apple.Maps
+│   │   ├── group.com.apple.PegasusConfiguration
+│   │   ├── group.com.apple.Photos.PhotosFileProvider
+│   │   ├── group.com.apple.Safari.SandboxBroker
+│   │   ├── group.com.apple.VoiceMemos.shared
+│   │   ├── group.com.apple.accessibility.voicebanking
+│   │   ├── group.com.apple.calendar
+│   │   ├── group.com.apple.chronod
+│   │   ├── group.com.apple.feedback
+│   │   ├── group.com.apple.feedbacklogger
+│   │   ├── group.com.apple.freeform
+│   │   ├── group.com.apple.gamecenter
+│   │   ├── group.com.apple.helpviewer.content
+│   │   ├── group.com.apple.iBooks
+│   │   ├── group.com.apple.iCloudDrive
+│   │   ├── group.com.apple.icloud.fm
+│   │   ├── group.com.apple.inputmethod.chineseim
+│   │   ├── group.com.apple.ip.redirects
+│   │   ├── group.com.apple.mail
+│   │   ├── group.com.apple.mlhost
+│   │   ├── group.com.apple.mobileslideshow.PhotosFileProvider
+│   │   ├── group.com.apple.news
+│   │   ├── group.com.apple.newsd
+│   │   ├── group.com.apple.notes
+│   │   ├── group.com.apple.notes.import
+│   │   ├── group.com.apple.notesdebug
+│   │   ├── group.com.apple.people
+│   │   ├── group.com.apple.photolibraryd.private
+│   │   ├── group.com.apple.private.translation
+│   │   ├── group.com.apple.reminders
+│   │   ├── group.com.apple.screencapture
+│   │   ├── group.com.apple.secure-control-center-preferences
+│   │   ├── group.com.apple.sharingd
+│   │   ├── group.com.apple.shortcuts
+│   │   ├── group.com.apple.siri.userfeedbacklearning
+│   │   ├── group.com.apple.spotlight
+│   │   ├── group.com.apple.stocks
+│   │   ├── group.com.apple.stocks-news
+│   │   ├── group.com.apple.storekit
+│   │   ├── group.com.apple.tips
+│   │   ├── group.com.apple.tipsnext
+│   │   ├── group.com.apple.transparency
+│   │   ├── group.com.apple.uiunderstanding
+│   │   ├── group.com.apple.weather
+│   │   ├── group.is.workflow.my.app
+│   │   ├── group.is.workflow.shortcuts
+│   │   ├── group.solutions.wzp.translator.shared
+│   │   ├── ru.keepcoder.Telegram
+│   │   ├── ru.keepcoder.Telegram.TelegramShare
+│   │   └── solutions.wzp.translator
+│   ├── Application Support
+│   │   ├── AddressBook
+│   │   │   ├── ABAssistantChangelog.aclcddb
+│   │   │   ├── ABAssistantChangelog.aclcddb-shm
+│   │   │   ├── ABAssistantChangelog.aclcddb-wal
+│   │   │   ├── AddressBook-v22.abcddb
+│   │   │   ├── AddressBook-v22.abcddb-shm
+│   │   │   ├── AddressBook-v22.abcddb-wal
+│   │   │   ├── Metadata
+│   │   │   └── Sources
+│   │   ├── Adobe
+│   │   │   ├── ACPLocal
+│   │   │   ├── AIRobin 27.9.0
+│   │   │   ├── AIRobin 29.0.1
+│   │   │   ├── Adobe Illustrator 27
+│   │   │   ├── Adobe Illustrator 29
+│   │   │   ├── Adobe PDF
+│   │   │   ├── Adobe Photoshop 2021
+│   │   │   ├── Adobe Photoshop 2022
+│   │   │   ├── Color
+│   │   │   ├── CoreSync
+│   │   │   ├── Creative Cloud Libraries
+│   │   │   ├── ExtensibilityLibrary
+│   │   │   ├── Fonts
+│   │   │   ├── Linguistics
+│   │   │   ├── OOBE
+│   │   │   ├── PII
+│   │   │   ├── PMP
+│   │   │   ├── UPI
+│   │   │   └── UXP
+│   │   ├── Animoji
+│   │   │   ├── CoreDataBackend
+│   │   │   ├── Images
+│   │   │   └── Stickers
+│   │   ├── App Store
+│   │   │   └── StoreKit.db
+│   │   ├── CEF
+│   │   │   └── User Data
+│   │   ├── CallHistoryDB  [error opening dir]
+│   │   ├── CallHistoryTransactions  [error opening dir]
+│   │   ├── CloudDocs
+│   │   │   ├── E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.txt
+│   │   │   ├── account.1
+│   │   │   ├── device-tracking
+│   │   │   ├── pkg_extensions.plist
+│   │   │   ├── server-conflig.plist
+│   │   │   ├── session
+│   │   │   └── telemetry-enablement.plist
+│   │   ├── Code
+│   │   │   ├── 1.94-main.sock
+│   │   │   ├── Backups
+│   │   │   ├── Cache
+│   │   │   ├── CachedData
+│   │   │   ├── CachedExtensionVSIXs
+│   │   │   ├── CachedProfilesData
+│   │   │   ├── Code Cache
+│   │   │   ├── Cookies
+│   │   │   ├── Cookies-journal
+│   │   │   ├── Crashpad
+│   │   │   ├── DawnGraphiteCache
+│   │   │   ├── DawnWebGPUCache
+│   │   │   ├── GPUCache
+│   │   │   ├── Local Storage
+│   │   │   ├── Network Persistent State
+│   │   │   ├── Preferences
+│   │   │   ├── Service Worker
+│   │   │   ├── Session Storage
+│   │   │   ├── Shared Dictionary
+│   │   │   ├── SharedStorage
+│   │   │   ├── TransportSecurity
+│   │   │   ├── Trust Tokens
+│   │   │   ├── Trust Tokens-journal
+│   │   │   ├── User
+│   │   │   ├── WebStorage
+│   │   │   ├── Workspaces
+│   │   │   ├── blob_storage
+│   │   │   ├── clp
+│   │   │   ├── code.lock
+│   │   │   ├── databases
+│   │   │   ├── languagepacks.json
+│   │   │   ├── logs
+│   │   │   └── machineid
+│   │   ├── CrashReporter
+│   │   │   ├── Adobe Illustrator_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── App Store_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── EADesktop_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Finder_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Freeform_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Intervals_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Microsoft AutoUpdate_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Microsoft Excel_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Microsoft PowerPoint_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Microsoft Word_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Notes_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Preview_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Safari_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── Telegram_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── The Sims 4_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   └── pycharm_E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   ├── DiskImages
+│   │   │   └── com.apple.diskimages.fsck
+│   │   ├── Dock
+│   │   │   └── desktoppicture.db
+│   │   ├── Electronic Arts
+│   │   │   ├── EA Services
+│   │   │   └── EA app
+│   │   ├── FaceTime  [error opening dir]
+│   │   ├── FileProvider  [error opening dir]
+│   │   ├── Google
+│   │   │   ├── Chrome
+│   │   │   ├── GoogleUpdater
+│   │   │   └── RLZ
+│   │   ├── JetBrains
+│   │   │   ├── PyCharmCE2022.2
+│   │   │   └── consentOptions
+│   │   ├── Knowledge  [error opening dir]
+│   │   ├── Microsoft
+│   │   │   └── DeveloperTools
+│   │   ├── OneDrive
+│   │   │   ├── MASMigrated
+│   │   │   ├── SQM
+│   │   │   └── settings
+│   │   ├── OneDriveStandaloneUpdater
+│   │   │   └── FirstStartTime.dat
+│   │   ├── Origin
+│   │   │   ├── 715430d572eae0486ec194c4abcdb866.olc
+│   │   │   ├── AchievementCache
+│   │   │   ├── AvatarsCache
+│   │   │   ├── CatalogCache
+│   │   │   ├── Cloud Saves
+│   │   │   ├── ConsolidatedCache
+│   │   │   ├── CustomBoxartCache
+│   │   │   ├── EA app Migrator.app
+│   │   │   ├── EA app Migrator.app.zip
+│   │   │   ├── EntitlementCache
+│   │   │   ├── ImageCache
+│   │   │   ├── Installer Data
+│   │   │   ├── Logs
+│   │   │   ├── NonOriginContentCache
+│   │   │   ├── NucleusCache
+│   │   │   ├── QtWebEngine
+│   │   │   ├── SelfUpdate
+│   │   │   ├── Subscription
+│   │   │   ├── Telemetry
+│   │   │   ├── ThinSetup
+│   │   │   ├── Widget Updates
+│   │   │   ├── local.xml
+│   │   │   ├── local_66bc7f5f5d53949e679f25e4f1f74993.xml
+│   │   │   ├── mms.cfg
+│   │   │   └── production.wad
+│   │   ├── Yandex.Telemost
+│   │   │   ├── 1130000061391657
+│   │   │   ├── activity_am.dat
+│   │   │   ├── activity_am.dat.bak
+│   │   │   ├── logs
+│   │   │   ├── user_am.dat
+│   │   │   ├── ~crashreporter
+│   │   │   └── ~db_common
+│   │   ├── YandexMusic
+│   │   │   ├── Cache
+│   │   │   ├── Code Cache
+│   │   │   ├── Cookies
+│   │   │   ├── Cookies-journal
+│   │   │   ├── DawnGraphiteCache
+│   │   │   ├── DawnWebGPUCache
+│   │   │   ├── File System
+│   │   │   ├── GPUCache
+│   │   │   ├── IndexedDB
+│   │   │   ├── Local Storage
+│   │   │   ├── Network Persistent State
+│   │   │   ├── Preferences
+│   │   │   ├── Session Storage
+│   │   │   ├── Shared Dictionary
+│   │   │   ├── SharedStorage
+│   │   │   ├── TransportSecurity
+│   │   │   ├── Trust Tokens
+│   │   │   ├── Trust Tokens-journal
+│   │   │   ├── WebStorage
+│   │   │   ├── blob_storage
+│   │   │   └── config.json
+│   │   ├── com.adobe.dunamis
+│   │   │   ├── 219ee4da-85c6-463a-9b9f-f24f6a21b802
+│   │   │   ├── 4bc85843-e4b8-4c32-b2d2-26dec957dc12
+│   │   │   ├── 821020c6-fb75-4576-8a01-b83cb7143f93
+│   │   │   ├── 9941f613-c3d0-4c0b-807e-15fe438a33ec
+│   │   │   ├── a5cac111-daee-4466-aba3-e1da5fe5215c
+│   │   │   ├── f276eb9b-7304-4e61-8f4f-4360b2c2886a
+│   │   │   └── feedback
+│   │   ├── com.apple.ContextStoreAgent
+│   │   │   └── screenTimeEnabled
+│   │   ├── com.apple.MediaPlayer
+│   │   │   └── ServerObjectDatabases
+│   │   ├── com.apple.NewDeviceOutreach
+│   │   │   └── e6a50bcdfca635e1a0e044524c01a8d46162bdbbcc93f729fdfe93fa0d21631d_Warranty.plist
+│   │   ├── com.apple.ProtectedCloudStorage
+│   │   │   ├── KeysSyncingVersion3-(null)-ProtectedCloudStorage.db
+│   │   │   ├── KeysSyncingVersion3-(null)-ProtectedCloudStorage.db-shm
+│   │   │   ├── KeysSyncingVersion3-(null)-ProtectedCloudStorage.db-wal
+│   │   │   ├── KeysSyncingVersion3-17792250160-ProtectedCloudStorage.db
+│   │   │   ├── KeysSyncingVersion3-17792250160-ProtectedCloudStorage.db-shm
+│   │   │   ├── KeysSyncingVersion3-17792250160-ProtectedCloudStorage.db-wal
+│   │   │   ├── PCSAnalytics.db
+│   │   │   ├── PCSAnalytics.db-shm
+│   │   │   ├── PCSAnalytics.db-wal
+│   │   │   ├── metrics.db
+│   │   │   ├── metrics.db-shm
+│   │   │   └── metrics.db-wal
+│   │   ├── com.apple.RemoteManagementAgent
+│   │   │   ├── Database
+│   │   │   ├── MigrationStatus.plist
+│   │   │   └── Status
+│   │   ├── com.apple.TCC  [error opening dir]
+│   │   ├── com.apple.akd
+│   │   │   ├── authorization.db
+│   │   │   └── privateEmails.db
+│   │   ├── com.apple.ap.promotedcontentd
+│   │   │   ├── APCS
+│   │   │   ├── APDB
+│   │   │   ├── APPL
+│   │   │   ├── SFS
+│   │   │   └── adsc
+│   │   ├── com.apple.avfoundation
+│   │   │   └── Frecents
+│   │   ├── com.apple.backgroundtaskmanagementagent
+│   │   │   └── backgrounditems.btm
+│   │   ├── com.apple.control-center.tips
+│   │   ├── com.apple.exchangesync
+│   │   ├── com.apple.mobileAssetDesktop
+│   │   ├── com.apple.replayd
+│   │   ├── com.apple.sbd
+│   │   │   └── CFB6AE1E-9533-4683-A098-D986BBF5D2C1
+│   │   ├── com.apple.sharedfilelist  [error opening dir]
+│   │   ├── com.apple.spotlight
+│   │   │   ├── Resources.update_V3
+│   │   │   ├── Resources_V3
+│   │   │   ├── SubmittedReports
+│   │   │   ├── appList.dat
+│   │   │   └── parsecResources.plist
+│   │   ├── com.apple.touristd
+│   │   │   ├── HighSierraBasics.icns
+│   │   │   ├── bigsur_late-2020_macbook-air_icon.icns
+│   │   │   ├── bigsur_whats_new.icns
+│   │   │   └── com.apple.touristd.plist
+│   │   ├── com.apple.wallpaper
+│   │   │   └── Store
+│   │   ├── com.microsoft.OneDriveStandaloneUpdater
+│   │   │   └── com.microsoft.HockeyApp
+│   │   ├── com.microsoft.SharePoint-mac
+│   │   │   └── com.microsoft.appcenter
+│   │   ├── discord
+│   │   │   ├── 0.0.335
+│   │   │   ├── Cache
+│   │   │   ├── Code Cache
+│   │   │   ├── Cookies
+│   │   │   ├── Cookies-journal
+│   │   │   ├── Crashpad
+│   │   │   ├── CrashpadMetrics-active.pma
+│   │   │   ├── CrashpadMetrics.pma
+│   │   │   ├── DawnCache
+│   │   │   ├── DawnGraphiteCache
+│   │   │   ├── DawnWebGPUCache
+│   │   │   ├── Dictionaries
+│   │   │   ├── GPUCache
+│   │   │   ├── IndexedDB
+│   │   │   ├── Local State
+│   │   │   ├── Local Storage
+│   │   │   ├── Network Persistent State
+│   │   │   ├── Preferences
+│   │   │   ├── Service Worker
+│   │   │   ├── Session Storage
+│   │   │   ├── Shared Dictionary
+│   │   │   ├── SharedStorage
+│   │   │   ├── SharedStorage-wal
+│   │   │   ├── SingletonCookie -> 9808557407762471951
+│   │   │   ├── SingletonLock -> MacBook-Air-Elizaveta.local-1071
+│   │   │   ├── SingletonSocket -> /var/folders/wd/chd_z_l96mbfrzfmglwlgnwr0000gn/T/scoped_dirU47axK/SingletonSocket
+│   │   │   ├── TransportSecurity
+│   │   │   ├── Trust Tokens
+│   │   │   ├── Trust Tokens-journal
+│   │   │   ├── VideoDecodeStats
+│   │   │   ├── WebStorage
+│   │   │   ├── WidevineCdm
+│   │   │   ├── blob_storage
+│   │   │   ├── component_crx_cache
+│   │   │   ├── deafen-off.png
+│   │   │   ├── deafen.png
+│   │   │   ├── disconnect.png
+│   │   │   ├── domainMigrated
+│   │   │   ├── logs
+│   │   │   ├── modules
+│   │   │   ├── modules.log
+│   │   │   ├── mute-off.png
+│   │   │   ├── mute.png
+│   │   │   ├── quotes.json
+│   │   │   ├── sentry
+│   │   │   ├── settings.json
+│   │   │   ├── shared_proto_db
+│   │   │   ├── tray-connectedTemplate.png
+│   │   │   ├── tray-deafenedTemplate.png
+│   │   │   ├── tray-mutedTemplate.png
+│   │   │   ├── tray-speakingTemplate.png
+│   │   │   ├── tray-unreadTemplate.png
+│   │   │   ├── trayTemplate.png
+│   │   │   ├── video-off.png
+│   │   │   └── video.png
+│   │   ├── homeenergyd
+│   │   ├── iCloud
+│   │   │   └── Accounts
+│   │   ├── iLifeMediaBrowser
+│   │   ├── icdd
+│   │   │   ├── deviceInfoCache.plist
+│   │   │   └── deviceInfoCacheV2.plist
+│   │   ├── networkserviceproxy
+│   │   │   ├── NSPCoreDataModel.sqlite
+│   │   │   ├── NSPCoreDataModel.sqlite-shm
+│   │   │   └── NSPCoreDataModel.sqlite-wal
+│   │   ├── uTorrent Web
+│   │   │   ├── BitTorrentHelper
+│   │   │   ├── Tutorial
+│   │   │   ├── helper.app
+│   │   │   ├── resume.dat
+│   │   │   ├── settings.dat
+│   │   │   ├── settings.dat.bak
+│   │   │   ├── store.dat
+│   │   │   ├── users.conf
+│   │   │   ├── utweb.log
+│   │   │   └── webui.zip
+│   │   ├── virtualenv
+│   │   │   ├── unzip
+│   │   │   └── wheel
+│   │   └── zoom.us
+│   │       ├── AutoUpdater
+│   │       └── data
+│   ├── Assistant
+│   │   ├── CustomVocabulary
+│   │   │   ├── com.apple.Photos
+│   │   │   └── com.apple.siriVoiceShortcuts
+│   │   ├── DictationSampled
+│   │   │   └── DictationSampled.plist
+│   │   ├── SiriAnalytics.db
+│   │   ├── SiriAnalytics.db-shm
+│   │   ├── SiriAnalytics.db-wal
+│   │   ├── SiriMetrics
+│   │   ├── SiriReferenceResolution
+│   │   │   └── rr.sqlite3
+│   │   ├── SiriSyncItems.db
+│   │   ├── SiriVocabulary  [error opening dir]
+│   │   ├── SyncSnapshot.plist
+│   │   ├── assistant_success_timestamp
+│   │   ├── assistantdDidLaunch
+│   │   ├── com.apple.siri.applications.laststate.plist
+│   │   ├── com.apple.siri.corrections.laststate.plist
+│   │   ├── session_did_finish_timestamp
+│   │   └── sync_flag
+│   ├── Assistants
+│   ├── Audio
+│   │   ├── MIDI Drivers
+│   │   ├── Plug-Ins
+│   │   │   ├── Components
+│   │   │   ├── Digidesign
+│   │   │   └── VST
+│   │   └── Sounds
+│   │       ├── Alerts
+│   │       └── Banks
+│   ├── Autosave Information  [error opening dir]
+│   ├── Biome  [error opening dir]
+│   ├── Caches
+│   │   ├── AAProfilePicture_9E9CC24A-FA29-4609-B32F-56998E7016D3.png
+│   │   ├── AI_27_9
+│   │   ├── AI_29_0
+│   │   ├── ARFileCache
+│   │   ├── Adobe
+│   │   │   ├── CCX Welcome
+│   │   │   ├── Color
+│   │   │   ├── Fonts
+│   │   │   └── TypeSupport
+│   │   ├── Animoji
+│   │   │   ├── alien_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── bear_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── boar_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── cat_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── chicken_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── cow_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── dog_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── dragon_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── fox_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── ghost_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── giraffe_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── koala_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── lion_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── monkey_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── mouse_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── octopus_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── owl_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── panda_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── pig_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── poo_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── rabbit_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── robot_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── shark_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── skull_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── tiger_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   ├── trex_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   │   └── unicorn_AK342401000_cameraGrid_friendly2_e1_o1_165.00x165.00At2.00x.atx
+│   │   ├── AudioUnitCache
+│   │   │   └── com.apple.audiounits.sandboxed.cache
+│   │   ├── CSXS
+│   │   │   └── cep_cache
+│   │   ├── CloudKit  [error opening dir]
+│   │   ├── Configuration
+│   │   │   └── remote-configuration
+│   │   ├── EA app
+│   │   │   └── qmlcache
+│   │   ├── EALaunchHelper
+│   │   │   └── qmlcache
+│   │   ├── FamilyCircle  [error opening dir]
+│   │   ├── GameKit
+│   │   │   ├── Data
+│   │   │   ├── Images
+│   │   │   ├── StoreBag
+│   │   │   ├── sessions-_2332ed771b340597215478a91c2ca671.db
+│   │   │   └── staging
+│   │   ├── GeoServices
+│   │   │   ├── ActiveTileGroup.pbd
+│   │   │   ├── DirectReadConfigStore.plist
+│   │   │   ├── Experiments.pbd
+│   │   │   ├── RegionalResources
+│   │   │   ├── ReqCount.db
+│   │   │   ├── ReqCount.db-shm
+│   │   │   ├── ReqCount.db-wal
+│   │   │   ├── ResourceManifest.pbd
+│   │   │   ├── Resources
+│   │   │   ├── SearchAttribution.pbd
+│   │   │   └── networkDefaults.plist
+│   │   ├── Google
+│   │   │   └── Chrome
+│   │   ├── Homebrew
+│   │   │   ├── all_commands_list.txt
+│   │   │   ├── api
+│   │   │   ├── downloads
+│   │   │   ├── external_commands_list.txt
+│   │   │   ├── portable-ruby-3.3.7.arm64_big_sur.bottle.tar.gz
+│   │   │   ├── tree--2.2.1 -> downloads/8a5326f4335492a2b32d9dba395cffe80ab69c5620da0fce82c6aa12fe29dba5--tree--2.2.1.arm64_sonoma.bottle.tar.gz
+│   │   │   └── tree_bottle_manifest--2.2.1 -> downloads/ef6faed21763af269407b42b7c1c880d5b2d78bae89c3d0007e01388f4541a2b--tree-2.2.1.bottle_manifest.json
+│   │   ├── JetBrains
+│   │   │   └── PyCharmCE2022.2
+│   │   ├── LSMImageCache
+│   │   ├── Maps
+│   │   │   └── Announcements.pbd
+│   │   ├── Microsoft
+│   │   │   └── uls
+│   │   ├── MiniLauncher
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── OneDrive
+│   │   │   ├── NucleusUpdateRingConfig.json
+│   │   │   ├── UpdateRingSettings.json
+│   │   │   ├── qmlcache
+│   │   │   └── qmlcache_24.181.0908
+│   │   ├── Origin
+│   │   │   ├── QtWebEngine
+│   │   │   └── Web Cache
+│   │   ├── PFSceneTaxonomyData.index
+│   │   ├── PassKit
+│   │   │   ├── PassAssetCache
+│   │   │   ├── RemoteCards
+│   │   │   └── cache.plist
+│   │   ├── SharedImageCache
+│   │   ├── TrickPlay
+│   │   ├── askpermissiond
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── chrome_crashpad_handler
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.EA.EA-app-Migrator
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── com.adobe.AIRobin
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.AdobeCRDaemon
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.AdobeIPCBroker
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.CCXProcess
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.acc.AdobeCreativeCloud
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── WebKit
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.acc.AdobeDesktopService
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── WebKit
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.accmac
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── com.adobe.ccd.helper
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── WebKit
+│   │   │   └── fsCachedData
+│   │   ├── com.adobe.illustrator
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── WebKit
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.AMPDevicesAgent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── HSTS.plist
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.AMPLibraryAgent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── HSTS.plist
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.AddressBookSourceSync
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.AppleMediaServices
+│   │   │   ├── DynamicUI
+│   │   │   ├── Engagement
+│   │   │   ├── Metrics
+│   │   │   ├── Storage
+│   │   │   └── sap-setup-cert.txt
+│   │   ├── com.apple.AppleMediaServicesUI
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.AppleMediaServicesUIDynamicService
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── com.apple.AssistantServices
+│   │   ├── com.apple.AvatarKit
+│   │   │   └── AvatarKit-342.401
+│   │   ├── com.apple.DictionaryServices
+│   │   │   └── DictionaryCache.plist
+│   │   ├── com.apple.Family-Settings.extension
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.HomeKit  [error opening dir]
+│   │   ├── com.apple.Music
+│   │   │   ├── ArtistNames.plist
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── HSTS.plist
+│   │   │   ├── MusicUIArtworkCache
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.NewDeviceOutreach
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.Safari  [error opening dir]
+│   │   ├── com.apple.Spotlight
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.SystemProfiler
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── com.apple.TV
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── HSTS.plist
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.accountsd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.akd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.amsaccountsd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.amsengagementd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.ap.adprivacyd  [error opening dir]
+│   │   ├── com.apple.appleaccountd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.appstore
+│   │   │   └── CommerceRequestCache
+│   │   ├── com.apple.appstoreagent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── Octane
+│   │   │   ├── SoftwareMap
+│   │   │   ├── SubscriptionEntitlementsActivity_v2.plist
+│   │   │   ├── SubscriptionEntitlementsAppStore_v2.plist
+│   │   │   ├── SubscriptionEntitlementsPodcast_v2.plist
+│   │   │   ├── SubscriptionEntitlementsTV_v2.plist
+│   │   │   ├── SubscriptionEntitlements_v2.plist
+│   │   │   ├── SubscriptionEntitlementsiCloud_v2.plist
+│   │   │   ├── appledger.plist
+│   │   │   ├── badging.plist
+│   │   │   ├── crossfireEnabled
+│   │   │   ├── fsCachedData
+│   │   │   ├── katana-subscription-cache.plist
+│   │   │   ├── storeSystem.db
+│   │   │   ├── storeSystem.db-shm
+│   │   │   ├── storeSystem.db-wal
+│   │   │   ├── storeUser.db
+│   │   │   ├── storeUser.db-shm
+│   │   │   ├── storeUser.db-wal
+│   │   │   └── top_arcade_apps.plist
+│   │   ├── com.apple.assistant_cdmd
+│   │   │   └── com.apple.UnifiedAssetFramework
+│   │   ├── com.apple.assistant_service
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── com.apple.UnifiedAssetFramework
+│   │   │   ├── fsCachedData
+│   │   │   └── updates
+│   │   ├── com.apple.assistantd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── com.apple.UnifiedAssetFramework
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.automator.actionCache-bundleLocations.plist
+│   │   ├── com.apple.automator.actionCache-system-standardLocations.plist
+│   │   ├── com.apple.betaenrollmentd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.bird
+│   │   │   ├── session
+│   │   │   └── unlink
+│   │   ├── com.apple.bookassetd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.bookdatastored
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.businessservicesd
+│   │   ├── com.apple.cache_delete
+│   │   │   ├── CDPurgeStats
+│   │   │   ├── CacheDeleteAnalytics.plist
+│   │   │   ├── CacheDeleteBreadcumbs
+│   │   │   ├── CacheDeleteDaemonRecentInfo_v2
+│   │   │   ├── CacheDeletePurgeHistory.txt
+│   │   │   ├── CacheDeleteRecentInfo_v2
+│   │   │   ├── FSPurgeSentinel
+│   │   │   └── com.apple.CacheDeleteAppContainerCaches.discardedCaches
+│   │   ├── com.apple.chrono
+│   │   │   └── snapshot-cache
+│   │   ├── com.apple.cloudd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.commerce
+│   │   │   └── Music_daapLibrary
+│   │   ├── com.apple.containermanagerd  [error opening dir]
+│   │   ├── com.apple.controlcenter
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.coreservices.uiagent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.ctcategories.service
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.dataaccess.dataaccessd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── com.apple.donotdisturbd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.e5rt.e5bundlecache
+│   │   │   └── 23F79
+│   │   ├── com.apple.feedbacklogger
+│   │   │   ├── cached-logging-config.data
+│   │   │   ├── com.apple.assistantd
+│   │   │   ├── com.apple.proactive.eventtracker
+│   │   │   └── latest-logging-config.data
+│   │   ├── com.apple.finder
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.findmy.fmfcore  [error opening dir]
+│   │   ├── com.apple.findmy.fmipcore  [error opening dir]
+│   │   ├── com.apple.findmy.imagecache  [error opening dir]
+│   │   ├── com.apple.gamed
+│   │   │   └── url-resolution.plist
+│   │   ├── com.apple.helpd
+│   │   │   ├── CSHelpIndex.plist
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── Generated
+│   │   │   ├── HSTS.plist
+│   │   │   ├── HelpCache.plist
+│   │   │   ├── NSFileProtectionComplete
+│   │   │   ├── NSFileProtectionCompleteUnlessOpen
+│   │   │   ├── NSFileProtectionCompleteUntilFirstUserAuthentication
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.homed  [error opening dir]
+│   │   ├── com.apple.iBooksX
+│   │   │   └── CommerceRequestCache
+│   │   ├── com.apple.iCloudNotificationAgent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.iLifeMediaBrowser
+│   │   ├── com.apple.iTunes
+│   │   │   └── CommerceRequestCache
+│   │   ├── com.apple.iTunesCloud
+│   │   │   ├── InAppMessages
+│   │   │   └── URLBags
+│   │   ├── com.apple.icloud.FMIPClientXPCService
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   └── Cache.db-wal
+│   │   ├── com.apple.icloud.fmfd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── FMFCloudKitCache
+│   │   │   └── FMFDStoreCache.data
+│   │   ├── com.apple.installer.osinstallersetupd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.itunescloudd
+│   │   │   ├── ArtworkDownloads
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.nbagent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.nsservicescache.plist
+│   │   ├── com.apple.nsurlsessiond
+│   │   │   └── Downloads
+│   │   ├── com.apple.parsecd
+│   │   │   ├── Cohorts
+│   │   │   ├── CustomFeedback
+│   │   │   ├── EngagedCompletions
+│   │   │   ├── bag.plist
+│   │   │   ├── installed_app_whitelist_url
+│   │   │   ├── persistent.json
+│   │   │   └── silhouette_data
+│   │   ├── com.apple.passd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.preferencepanes.searchindexcache
+│   │   ├── com.apple.preferencepanes.usercache
+│   │   ├── com.apple.proactive.eventtracker
+│   │   │   ├── aggr_state
+│   │   │   ├── device_id.501.uuid
+│   │   │   └── log_stores
+│   │   ├── com.apple.python
+│   │   │   ├── Applications
+│   │   │   ├── Library
+│   │   │   └── Users
+│   │   ├── com.apple.remindd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── RemoteConfiguration.plist
+│   │   ├── com.apple.sharekit.-2672417976689471431.png
+│   │   ├── com.apple.sharekit.-4854899563761031626.png
+│   │   ├── com.apple.sharekit.-6780277465686202818.png
+│   │   ├── com.apple.sharekit.-7264310315745394407.png
+│   │   ├── com.apple.sharekit.2141226251561281038.png
+│   │   ├── com.apple.sharekit.2487821725131591411.png
+│   │   ├── com.apple.sharekit.3465968951862004152.png
+│   │   ├── com.apple.sharekit.3982952329997625722.png
+│   │   ├── com.apple.sharekit.4808524348579924194.png
+│   │   ├── com.apple.sharekit.9105638342932809220.png
+│   │   ├── com.apple.sharekit.9650137053051.png
+│   │   ├── com.apple.siri.bundleservicecache.plist
+│   │   ├── com.apple.siri.conversationhandlercache.plist
+│   │   ├── com.apple.siri.embeddedspeech
+│   │   │   └── com.apple.UnifiedAssetFramework
+│   │   ├── com.apple.siri.findmy.syncdevicedata.json
+│   │   ├── com.apple.siri.flowdelegateplugincache.plist
+│   │   ├── com.apple.siri.transformationplugincache.plist
+│   │   ├── com.apple.siriknowledged
+│   │   │   └── com.apple.UnifiedAssetFramework
+│   │   ├── com.apple.sirittsd
+│   │   │   └── SynthesisCache
+│   │   ├── com.apple.storekitagent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.systempreferences
+│   │   │   ├── AAProfilePicture_9E9CC24A-FA29-4609-B32F-56998E7016D3.png
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── HSTS.plist
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.systempreferences.imageCache
+│   │   ├── com.apple.systemsettings.menucache
+│   │   ├── com.apple.tipsd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.tiswitcher.cache
+│   │   ├── com.apple.touristd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.translationd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.apple.transparencyd
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.bitTorrent.utweb
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── fsCachedData
+│   │   │   └── org.sparkle-project.Sparkle
+│   │   ├── com.ea.Origin
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.google.GoogleUpdater
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.google.Keystone
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.google.SoftwareUpdate
+│   │   │   └── Downloads
+│   │   ├── com.hnc.Discord
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.hnc.Discord.ShipIt
+│   │   │   ├── ShipItState.plist
+│   │   │   ├── ShipIt_stderr.log
+│   │   │   ├── ShipIt_stdout.log
+│   │   │   └── update.0keJCSL
+│   │   ├── com.microsoft.OneDrive
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.microsoft.OneDriveStandaloneUpdater
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── fsCachedData
+│   │   │   └── net.hockeyapp.sdk.mac
+│   │   ├── com.microsoft.SharePoint-mac
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.microsoft.VSCode
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.microsoft.VSCode.ShipIt
+│   │   │   ├── ShipItState.plist
+│   │   │   ├── ShipIt_stderr.log
+│   │   │   ├── ShipIt_stdout.log
+│   │   │   └── update.1ddJqoQ
+│   │   ├── com.microsoft.autoupdate.fba
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.microsoft.autoupdate2
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── com.plausiblelabs.crashreporter.data
+│   │   │   ├── com.microsoft.OneDriveStandaloneUpdater
+│   │   │   └── com.microsoft.SharePoint-mac
+│   │   ├── familycircled
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── iCloudUserNotification
+│   │   │   └── Notifications.plist
+│   │   ├── knowledge-agent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── mbuseragent
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── pip
+│   │   │   ├── http
+│   │   │   ├── http-v2
+│   │   │   └── selfcheck
+│   │   ├── ru.yandex.desktop.music
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   ├── ru.yandex.desktop.music.ShipIt
+│   │   │   ├── ShipItState.plist
+│   │   │   ├── ShipIt_stderr.log
+│   │   │   └── ShipIt_stdout.log
+│   │   ├── ru.yandex.desktop.telemost
+│   │   │   └── WebKit
+│   │   ├── seaborn
+│   │   │   └── iris.csv
+│   │   ├── ssu
+│   │   │   ├── cache_directory_format_version.v3.touch
+│   │   │   ├── locales
+│   │   │   └── temporary
+│   │   ├── us.zoom.xos
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   ├── WebKit
+│   │   │   ├── fsCachedData
+│   │   │   └── sUDGVo_ITsGWV7mfwtW72A.jpg
+│   │   ├── walletAvailabilityCheckTool
+│   │   │   ├── Cache.db
+│   │   │   ├── Cache.db-shm
+│   │   │   ├── Cache.db-wal
+│   │   │   └── fsCachedData
+│   │   └── yandexmusic-updater
+│   │       ├── pending
+│   │       └── update.zip
+│   ├── Calendars  [error opening dir]
+│   ├── CallServices
+│   │   ├── A4CFE2E5-76EF-48CC-A9DF-855934006FFC
+│   │   │   ├── ar.lproj
+│   │   │   ├── ca.lproj
+│   │   │   ├── cs.lproj
+│   │   │   ├── da.lproj
+│   │   │   ├── de.lproj
+│   │   │   ├── el.lproj
+│   │   │   ├── en.lproj
+│   │   │   ├── en_AU.lproj
+│   │   │   ├── en_GB.lproj
+│   │   │   ├── es.lproj
+│   │   │   ├── es_419.lproj
+│   │   │   ├── fi.lproj
+│   │   │   ├── fr.lproj
+│   │   │   ├── fr_CA.lproj
+│   │   │   ├── he.lproj
+│   │   │   ├── hi.lproj
+│   │   │   ├── hr.lproj
+│   │   │   ├── hu.lproj
+│   │   │   ├── id.lproj
+│   │   │   ├── it.lproj
+│   │   │   ├── ja.lproj
+│   │   │   ├── ko.lproj
+│   │   │   ├── ms.lproj
+│   │   │   ├── nl.lproj
+│   │   │   ├── no.lproj
+│   │   │   ├── pl.lproj
+│   │   │   ├── pt_BR.lproj
+│   │   │   ├── pt_PT.lproj
+│   │   │   ├── ro.lproj
+│   │   │   ├── ru.lproj
+│   │   │   ├── sk.lproj
+│   │   │   ├── sv.lproj
+│   │   │   ├── th.lproj
+│   │   │   ├── tr.lproj
+│   │   │   ├── uk.lproj
+│   │   │   ├── vi.lproj
+│   │   │   ├── zh_CN.lproj
+│   │   │   ├── zh_HK.lproj
+│   │   │   └── zh_TW.lproj
+│   │   └── Ringtones
+│   ├── CloudStorage
+│   │   └── iCloud Drive-iCloudDrive (13.10.2024 17:30)
+│   │       ├── com~apple~Keynote
+│   │       ├── com~apple~Numbers
+│   │       ├── com~apple~Pages
+│   │       └── iCloud~is~workflow~my~workflows
+│   ├── ColorPickers
+│   ├── Colors
+│   │   └── NSColorPanelSwatches.plist
+│   ├── Compositions
+│   ├── Contacts
+│   │   └── iOSLegacyIdentifierSequences.plist
+│   ├── ContainerManager  [error opening dir]
+│   ├── Containers
+│   │   ├── 5894B443-944A-4A76-9760-1439D54961B0
+│   │   │   └── Data
+│   │   ├── com.adobe.accmac.ACCFinderSync
+│   │   │   └── Data
+│   │   ├── com.apple.AMPArtworkAgent
+│   │   │   └── Data
+│   │   ├── com.apple.AMPDeviceDiscoveryAgent
+│   │   │   └── Data
+│   │   ├── com.apple.AVConference.Diagnostic
+│   │   │   └── Data
+│   │   ├── com.apple.AboutThisMacLauncher
+│   │   │   └── Data
+│   │   ├── com.apple.Accessibility-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.ActionKit.BundledIntentHandler
+│   │   │   └── Data
+│   │   ├── com.apple.AddressBook
+│   │   │   └── Data
+│   │   ├── com.apple.AddressBook.ABPersonViewService
+│   │   │   └── Data
+│   │   ├── com.apple.AddressBook.ContactsAccountsService
+│   │   │   └── Data
+│   │   ├── com.apple.AddressBook.UrlForwarder
+│   │   │   └── Data
+│   │   ├── com.apple.AirDrop-Handoff-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.AirPlayUIAgent
+│   │   │   └── Data
+│   │   ├── com.apple.Animoji.StickersApp.MessagesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AppSSOKerberos.KerberosExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AppStore
+│   │   │   └── Data
+│   │   ├── com.apple.AppStoreDaemon.ASDAskPermissionExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Appearance-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.AppleAccountUI.AAUIFollowUpExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AppleMediaServices.FollowUpExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AppleMediaServicesUI.ComposeReviewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AppleMediaServicesUI.EngagementViewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AppleMediaServicesUI.SpyglassPurchases
+│   │   │   └── Data
+│   │   ├── com.apple.AppleMediaServicesUI.UtilityExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AquaAppearanceHelper
+│   │   │   └── Data
+│   │   ├── com.apple.Arabesque
+│   │   │   └── Data
+│   │   ├── com.apple.AskToMessagesHost.AskToExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AskToMessagesHost.AskToMessagesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AuthKit.AKDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AuthKitUI.AKAppSSOExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AuthKitUI.AKFollowUpServerUIExtension
+│   │   │   └── Data
+│   │   ├── com.apple.AutoFillPanelService
+│   │   │   └── Data
+│   │   ├── com.apple.AvatarUI.AvatarPickerMemojiEditor
+│   │   │   └── Data
+│   │   ├── com.apple.AvatarUI.AvatarPickerMemojiPicker
+│   │   │   └── Data
+│   │   ├── com.apple.AvatarUI.AvatarPickerPosePicker
+│   │   │   └── Data
+│   │   ├── com.apple.BKAgentService
+│   │   │   └── Data
+│   │   ├── com.apple.Batteries
+│   │   │   └── Data
+│   │   ├── com.apple.Batteries.BatteriesAvocadoWidgetExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Battery-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.BluetoothFileExchange
+│   │   │   └── Data
+│   │   ├── com.apple.BluetoothSettings
+│   │   │   └── Data
+│   │   ├── com.apple.BluetoothSetupAssistant
+│   │   │   └── Data
+│   │   ├── com.apple.CD-DVD-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.CMViewSrvc
+│   │   │   └── Data
+│   │   ├── com.apple.CalendarAgent
+│   │   │   └── Data
+│   │   ├── com.apple.CalendarFileHandler
+│   │   │   └── Data
+│   │   ├── com.apple.CalendarNotification.CalNCService
+│   │   │   └── Data
+│   │   ├── com.apple.CalendarUI.SpotlightEventPreview
+│   │   │   └── Data
+│   │   ├── com.apple.CalendarWeatherKitService
+│   │   │   └── Data
+│   │   ├── com.apple.CalendarWidget.IntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CaptiveNetworkAssistant
+│   │   │   └── Data
+│   │   ├── com.apple.Chess
+│   │   │   └── Data
+│   │   ├── com.apple.ClassKit-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.ClassKit.diagnosticextension
+│   │   │   └── Data
+│   │   ├── com.apple.Classroom-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.CloudDocs.MobileDocumentsFileProvider  [error opening dir]
+│   │   ├── com.apple.CloudDocs.MobileDocumentsFileProviderManaged
+│   │   │   └── Data
+│   │   ├── com.apple.CloudDocs.iCloudDriveFileProvider
+│   │   │   └── Data
+│   │   ├── com.apple.CloudDocs.iCloudDriveFileProviderManaged
+│   │   │   └── Data
+│   │   ├── com.apple.CloudDocsDaemon.StorageManagement
+│   │   │   └── Data
+│   │   ├── com.apple.CloudDocsDaemon.diagnostic
+│   │   │   └── Data
+│   │   ├── com.apple.CloudDocsDaemon.telemetry-disk-checker
+│   │   │   └── Data
+│   │   ├── com.apple.CloudPhotosConfiguration
+│   │   │   └── Data
+│   │   ├── com.apple.CloudSharingUI.CopyLink
+│   │   │   └── Data
+│   │   ├── com.apple.CloudSharingUI.invite
+│   │   │   └── Data
+│   │   ├── com.apple.CommerceKit.AskPermissionExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ConfigurationProfiles.FollowUp
+│   │   │   └── Data
+│   │   ├── com.apple.ContactsAgent
+│   │   │   └── Data
+│   │   ├── com.apple.ContactsUI.ContactPickerService
+│   │   │   └── Data
+│   │   ├── com.apple.ContactsUI.ContactViewViewService
+│   │   │   └── Data
+│   │   ├── com.apple.ContactsUI.ContactsViewService
+│   │   │   └── Data
+│   │   ├── com.apple.ContinuityCaptureOnboardingUI
+│   │   │   └── Data
+│   │   ├── com.apple.ControlCenter-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreCDPUI.CDPFollowUpExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreHapticsTools.HapticsQLPreviewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreHapticsTools.HapticsQLThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreHapticsTools.QLPreviewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreHapticsTools.QLThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreRoutine.RTDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.CoreRoutine.helperservice
+│   │   │   └── Data
+│   │   ├── com.apple.CoreSpotlight.ImportExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Coverage-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.CryptoTokenKit.ctkcard.ctkcardtoken
+│   │   │   └── Data
+│   │   ├── com.apple.CryptoTokenKit.pivtoken
+│   │   │   └── Data
+│   │   ├── com.apple.CryptoTokenKit.setoken
+│   │   │   └── Data
+│   │   ├── com.apple.DataDetectorsActionService
+│   │   │   └── Data
+│   │   ├── com.apple.DataDetectorsLocalSources
+│   │   │   └── Data
+│   │   ├── com.apple.DataDetectorsViewService
+│   │   │   └── Data
+│   │   ├── com.apple.Date-Time-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Desktop-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.DeviceActivityUI.DeviceActivityReportService
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.AirPlay
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.BluetoothHeadset
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.HIDSensingDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.HomeEnergyDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.IntelligentRoutingDiagnostic
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.PICSDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.WiFi
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.shortcuts
+│   │   │   └── Data
+│   │   ├── com.apple.DiagnosticExtensions.sysdiagnose
+│   │   │   └── Data
+│   │   ├── com.apple.Dictionary
+│   │   │   └── Data
+│   │   ├── com.apple.DiscHelper
+│   │   │   └── Data
+│   │   ├── com.apple.DiskSpaceDiagnostics.diagnosticextension
+│   │   │   └── Data
+│   │   ├── com.apple.Displays-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.DoNotDisturb.Intents
+│   │   │   └── Data
+│   │   ├── com.apple.ExtensionsPreferences
+│   │   │   └── Data
+│   │   ├── com.apple.FaceTime
+│   │   │   └── Data
+│   │   ├── com.apple.FaceTime.FaceTimeNotificationCenterService
+│   │   │   └── Data
+│   │   ├── com.apple.FaceTime.FaceTimeNotificationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.FaceTime.IntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.FaceTime.RemotePeoplePicker
+│   │   │   └── Data
+│   │   ├── com.apple.FaceTime.ShareExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Family
+│   │   │   └── Data
+│   │   ├── com.apple.Family-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.FamilyControlsAgent
+│   │   │   └── Data
+│   │   ├── com.apple.Feedback.DraftingExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Flurry
+│   │   │   └── Data
+│   │   ├── com.apple.Focus-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.FollowUpSettings.FollowUpSettingsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.FontBook
+│   │   │   └── Data
+│   │   ├── com.apple.Game-Center-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Game-Controller-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.GamePolicyMenuExtraService
+│   │   │   └── Data
+│   │   ├── com.apple.HeadphoneSettings
+│   │   │   └── Data
+│   │   ├── com.apple.Home  [error opening dir]
+│   │   ├── com.apple.Home.HomeDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Home.HomeEnergyWidgets
+│   │   │   └── Data
+│   │   ├── com.apple.Home.HomeUIUserList
+│   │   │   └── Data
+│   │   ├── com.apple.Home.HomeWidget
+│   │   │   └── Data
+│   │   ├── com.apple.Home.HomeWidget.Interactive
+│   │   │   └── Data
+│   │   ├── com.apple.HydraQLPreviewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.HydraQLThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.IOUIAgent
+│   │   │   └── Data
+│   │   ├── com.apple.IPAInstaller
+│   │   │   └── Data
+│   │   ├── com.apple.ImageIO.imageimporter
+│   │   │   └── Data
+│   │   ├── com.apple.ImageKit.RecentPictureService
+│   │   │   └── Data
+│   │   ├── com.apple.Internet-Accounts-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.KerberosMenuExtra
+│   │   │   └── Data
+│   │   ├── com.apple.Keyboard-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.LighthouseBitacoraFramework.BitacoraWorker
+│   │   │   └── Data
+│   │   ├── com.apple.LighthouseBitacoraFramework.LighthouseBitacoraPlugin
+│   │   │   └── Data
+│   │   ├── com.apple.LinkedNotesUIService
+│   │   │   └── Data
+│   │   ├── com.apple.Localization-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Lock-Screen-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.LoginItems-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.LoginUserService
+│   │   │   └── Data
+│   │   ├── com.apple.LookupViewService
+│   │   │   └── Data
+│   │   ├── com.apple.MailCacheDelete
+│   │   │   └── Data
+│   │   ├── com.apple.MailServiceAgent
+│   │   │   └── Data
+│   │   ├── com.apple.MailShareExtension
+│   │   │   └── Data
+│   │   ├── com.apple.MailShortcutsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ManagedSettings.ManagedSettingsMacOSExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Maps
+│   │   │   └── Data
+│   │   ├── com.apple.MarkupUI.Markup
+│   │   │   └── Data
+│   │   ├── com.apple.MarkupUI.MarkupPhotoExtension
+│   │   │   └── Data
+│   │   ├── com.apple.MediaLibraryService
+│   │   │   └── Data
+│   │   ├── com.apple.MediaMLPluginApp.MediaMLPlugin
+│   │   │   └── Data
+│   │   ├── com.apple.MediaPlayer.DiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.MessageUIMacHelperService
+│   │   │   └── Data
+│   │   ├── com.apple.MobileSMS  [error opening dir]
+│   │   ├── com.apple.MobileSMS.MessagesActionExtension
+│   │   │   └── Data
+│   │   ├── com.apple.MobileSMS.MessagesPluginNotificationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.MobileSMS.spotlight
+│   │   │   └── Data
+│   │   ├── com.apple.Mouse-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Music.MPMusicPlayerApplicationControllerInternal
+│   │   │   └── Data
+│   │   ├── com.apple.Music.MusicCacheExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Music.MusicStorageExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Network-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.NetworkExtension.IKEv2Provider
+│   │   │   └── Data
+│   │   ├── com.apple.NetworkExtensionSettingsUI.NESettingsUIExtension
+│   │   │   └── Data
+│   │   ├── com.apple.NewDeviceOutreachMac.Extension
+│   │   │   └── Data
+│   │   ├── com.apple.Notes  [error opening dir]
+│   │   ├── com.apple.Notes.HTMLConverter
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.IntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.LPPreviewGenerator
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.NotesImporter
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.QuickLookExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.SharingExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.SpotlightIndexExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.WidgetExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Notes.datastore
+│   │   │   └── Data
+│   │   ├── com.apple.Notifications-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.OBEXAgent
+│   │   │   └── Data
+│   │   ├── com.apple.OFDPreview
+│   │   │   └── Data
+│   │   ├── com.apple.OFDThumbnail
+│   │   │   └── Data
+│   │   ├── com.apple.OSDUIHelper
+│   │   │   └── Data
+│   │   ├── com.apple.PDFKit.PDFExtensionView
+│   │   │   └── Data
+│   │   ├── com.apple.PDFKit.PDFImporter
+│   │   │   └── Data
+│   │   ├── com.apple.PaperKit.Extension
+│   │   │   └── Data
+│   │   ├── com.apple.Pass-Viewer
+│   │   │   └── Data
+│   │   ├── com.apple.PassKit.PaymentAuthorizationUIExtension
+│   │   │   └── Data
+│   │   ├── com.apple.PassKitUIXPCService
+│   │   │   └── Data
+│   │   ├── com.apple.PassbookUIService.PeerPaymentMessagesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Passwords-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.PeopleMessageService.AskToBuy
+│   │   │   └── Data
+│   │   ├── com.apple.PeopleMessageService.LegacyMessageService
+│   │   │   └── Data
+│   │   ├── com.apple.PeopleMessageService.ScreenTime
+│   │   │   └── Data
+│   │   ├── com.apple.PeopleViewService
+│   │   │   └── Data
+│   │   ├── com.apple.PeopleViewService.PeopleWidget-macOS
+│   │   │   └── Data
+│   │   ├── com.apple.PeopleViewService.SelectPerson-iOS
+│   │   │   └── Data
+│   │   ├── com.apple.PhotoBooth
+│   │   │   └── Data
+│   │   ├── com.apple.PhotoLibraryMigrationUtility
+│   │   │   └── Data
+│   │   ├── com.apple.PhotoLibraryServices.PhotosDiagnostics
+│   │   │   └── Data
+│   │   ├── com.apple.PhotoThemeService
+│   │   │   └── Data
+│   │   ├── com.apple.Photos
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.MacMusicPickerExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.Migration
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.Migration.Reader
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.PhotosFileProvider
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.PhotosReliveWidget
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.PhotosReliveWidgetIntents
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.PhotosSiriExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.StorageManagementExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Photos.librarychooserservice
+│   │   │   └── Data
+│   │   ├── com.apple.PlatformSSOToken
+│   │   │   └── Data
+│   │   ├── com.apple.PressAndHold
+│   │   │   └── Data
+│   │   ├── com.apple.Preview
+│   │   │   └── Data
+│   │   ├── com.apple.Print-Scan-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Profiles-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.QuickLookThumbnailing.extension.ThumbnailExtension-macOS
+│   │   │   └── Data
+│   │   ├── com.apple.QuickLookUIFramework.QLPreviewGenerationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.QuickTimePlayerX
+│   │   │   └── Data
+│   │   ├── com.apple.RAQLPreviewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RAQLThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RelativeMotion.TempestDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ReminderKitUI.ReminderCreationViewService
+│   │   │   └── Data
+│   │   ├── com.apple.RemoteManagement.AccountExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RemoteManagement.InteractiveLegacyProfilesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RemoteManagement.LegacyProfilesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RemoteManagement.ManagementTestExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RemoteManagement.PasscodeSettingsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.RemoteManagementMCXService
+│   │   │   └── Data
+│   │   ├── com.apple.SSMenuAgent
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.AppleInternal
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.Applications
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.CloudFiles
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.Developer
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.GarageBand
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.Mail
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.OtherUsers
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.Trash
+│   │   │   └── Data
+│   │   ├── com.apple.STMExtension.iOSFiles
+│   │   │   └── Data
+│   │   ├── com.apple.STMFramework.UIHelper
+│   │   │   └── Data
+│   │   ├── com.apple.Safari  [error opening dir]
+│   │   ├── com.apple.Safari.BrowserDataImportingService
+│   │   │   └── Data
+│   │   ├── com.apple.Safari.CacheDeleteExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Safari.DiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Safari.SafariLinkExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Safari.SafariQuickLookPreview
+│   │   │   └── Data
+│   │   ├── com.apple.Safari.SafariWidgetExtension
+│   │   │   └── Data
+│   │   ├── com.apple.SafariFoundation.CredentialProviderExtensionHelper
+│   │   │   └── Data
+│   │   ├── com.apple.SafariPlatformSupport.Helper
+│   │   │   └── Data
+│   │   ├── com.apple.SceneKitQLPreviewExtension
+│   │   │   └── Data
+│   │   ├── com.apple.SceneKitQLThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Screen-Time-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Computer-Name
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Drift
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Engine
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Engine.legacyScreenSaver
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Engine.legacyScreenSaver.x86-64
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Hello
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Monterey
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.Ventura
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSaver.iLife-Slideshow-Extension
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenSharing
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenTime.ScreenTimeWebExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenTimeAgent
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenTimeUI.ScreenTimeReportExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenTimeViewService
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetIntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Sharing-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Shell
+│   │   │   └── Data
+│   │   ├── com.apple.Siri
+│   │   │   └── Data
+│   │   ├── com.apple.Siri-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Siri.SiriTodayExtension
+│   │   │   └── Data
+│   │   ├── com.apple.SiriNCService
+│   │   │   └── Data
+│   │   ├── com.apple.SiriUI.SiriUISetupXPC
+│   │   │   └── Data
+│   │   ├── com.apple.SmartReplies.SmartRepliesMLRuntimePlugin
+│   │   │   └── Data
+│   │   ├── com.apple.Software-Update-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.SonicKit.diagnostics
+│   │   │   └── Data
+│   │   ├── com.apple.Sound-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Startup-Disk-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Stickers.UserGenerated.MessagesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Stickies
+│   │   │   └── Data
+│   │   ├── com.apple.StickiesMigration
+│   │   │   └── Data
+│   │   ├── com.apple.StorageManagement.CloudStorageHelper
+│   │   │   └── Data
+│   │   ├── com.apple.StorageManagement.MessagesHelper
+│   │   │   └── Data
+│   │   ├── com.apple.StorageManagementLauncher
+│   │   │   └── Data
+│   │   ├── com.apple.StoreKit.SKAskPermissionExtension
+│   │   │   └── Data
+│   │   ├── com.apple.StoreKit.UIService
+│   │   │   └── Data
+│   │   ├── com.apple.SystemProfiler.AboutExtension
+│   │   │   └── Data
+│   │   ├── com.apple.SystemProfiler.CloudStorageHelper
+│   │   │   └── Data
+│   │   ├── com.apple.SystemProfiler.CloudStorageUIHelper
+│   │   │   └── Data
+│   │   ├── com.apple.SystemProfiler.MessagesHelper
+│   │   │   └── Data
+│   │   ├── com.apple.TV.TVCacheExtension
+│   │   │   └── Data
+│   │   ├── com.apple.TV.TVStorageExtension
+│   │   │   └── Data
+│   │   ├── com.apple.TelephonyUtilities.PhoneIntentHandler
+│   │   │   └── Data
+│   │   ├── com.apple.TextEdit
+│   │   │   └── Data
+│   │   ├── com.apple.TextToSpeechVoiceBankingSupport.VoiceBankingDiagnostics
+│   │   │   └── Data
+│   │   ├── com.apple.Time-Machine-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Touch-ID-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Trackpad-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.Transfer-Reset-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.TranslationUIServices.TranslationUIService
+│   │   │   └── Data
+│   │   ├── com.apple.TransparencyUI.FollowUpExtension
+│   │   │   └── Data
+│   │   ├── com.apple.UIUnderstanding.diagnosticextension
+│   │   │   └── Data
+│   │   ├── com.apple.UniversalAccess.UASettingsShortcuts
+│   │   │   └── Data
+│   │   ├── com.apple.UsageTrackingAgent
+│   │   │   └── Data
+│   │   ├── com.apple.Users-Groups-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.VideoSubscriberAccount.VideoSubscriberAccountUIFramework.AuthenticationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.VoiceMemos  [error opening dir]
+│   │   ├── com.apple.VoiceMemos.SpotlightIndexExtension
+│   │   │   └── Data
+│   │   ├── com.apple.VoiceMemos.VoiceMemosIntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.WalletSettingsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.Wallpaper-Settings.extension
+│   │   │   └── Data
+│   │   ├── com.apple.WatchFaceAlert
+│   │   │   └── Data
+│   │   ├── com.apple.WatchFaceAlert.ThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.WordOfTheDay
+│   │   │   └── Data
+│   │   ├── com.apple.WorkflowKit.CatalystHelper
+│   │   │   └── Data
+│   │   ├── com.apple.WorkflowKit.ShortcutsIntents
+│   │   │   └── Data
+│   │   ├── com.apple.WorkflowKit.ShortcutsViewService
+│   │   │   └── Data
+│   │   ├── com.apple.WorkflowUI.AddShortcutExtension
+│   │   │   └── Data
+│   │   ├── com.apple.WorkflowUI.CatalystContentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.WorkflowUI.WidgetConfigurationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.accessibility.heard
+│   │   │   └── Data
+│   │   ├── com.apple.accessibility.mediaaccessibilityd
+│   │   │   └── Data
+│   │   ├── com.apple.aiml.RepackagingWorker
+│   │   │   └── Data
+│   │   ├── com.apple.amp.devicesui
+│   │   │   └── Data
+│   │   ├── com.apple.ap.PromotedContentPrediction.APOdmlSearchResultsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.appkit.xpc.ColorPickerImageLoader
+│   │   │   └── Data
+│   │   ├── com.apple.appkit.xpc.ColorSampler
+│   │   │   └── Data
+│   │   ├── com.apple.appkit.xpc.LegacyExternalColorPickerService.arm64
+│   │   │   └── Data
+│   │   ├── com.apple.appkit.xpc.LegacyExternalColorPickerService.x86_64
+│   │   │   └── Data
+│   │   ├── com.apple.appkit.xpc.WindowSharingControlViewService
+│   │   │   └── Data
+│   │   ├── com.apple.appleseed.FeedbackAssistant
+│   │   │   └── Data
+│   │   ├── com.apple.archiveutility  [error opening dir]
+│   │   ├── com.apple.archiveutility.auquarantineservice
+│   │   │   └── Data
+│   │   ├── com.apple.ax.KonaTTSSupport.KonaSynthesizer
+│   │   │   └── Data
+│   │   ├── com.apple.ax.MauiTTSSupport.MauiAUSP
+│   │   │   └── Data
+│   │   ├── com.apple.biome.BiomeStreams.BiomeLighthousePlugin
+│   │   │   └── Data
+│   │   ├── com.apple.calculator
+│   │   │   └── Data
+│   │   ├── com.apple.calendar.CalendarFocusConfigurationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.calendar.EventKitUIRemoteUIExtension
+│   │   │   └── Data
+│   │   ├── com.apple.clock.WorldClockWidget
+│   │   │   └── Data
+│   │   ├── com.apple.contacts.donation-agent
+│   │   │   └── Data
+│   │   ├── com.apple.coremedia.pluginformatreader
+│   │   │   └── Data
+│   │   ├── com.apple.coremedia.pluginformatreader.zonto
+│   │   │   └── Data
+│   │   ├── com.apple.corerecents.recentsd
+│   │   │   └── Data
+│   │   ├── com.apple.das.DASDaemon.DuetDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.filevault
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.getmobilityinfo
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.installlog
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.maillogs
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.spotlight
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.syslog
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.systemprofile
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.timemachine
+│   │   │   └── Data
+│   │   ├── com.apple.diagnosticextensions.osx.wifi
+│   │   │   └── Data
+│   │   ├── com.apple.diskspaced
+│   │   │   └── Data
+│   │   ├── com.apple.dp.PrivateFederatedLearning.DPMLRuntimePlugin
+│   │   │   └── Data
+│   │   ├── com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginClassB
+│   │   │   └── Data
+│   │   ├── com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginNonDnU
+│   │   │   └── Data
+│   │   ├── com.apple.dt.AutomationModeUI
+│   │   │   └── Data
+│   │   ├── com.apple.eventMetaDataExtractor.eventMetaDataExtractorPlugin
+│   │   │   └── Data
+│   │   ├── com.apple.eventkit.CalendarDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.extensionkit.AppExtensionManagement
+│   │   │   └── Data
+│   │   ├── com.apple.family.FAFollowupExtension
+│   │   │   └── Data
+│   │   ├── com.apple.finder.CreatePDFQuickAction
+│   │   │   └── Data
+│   │   ├── com.apple.finder.MarkupQuickAction
+│   │   │   └── Data
+│   │   ├── com.apple.finder.RotateQuickAction
+│   │   │   └── Data
+│   │   ├── com.apple.finder.TrimQuickAction
+│   │   │   └── Data
+│   │   ├── com.apple.findmy
+│   │   │   └── Data
+│   │   ├── com.apple.findmy.FindMyNotificationsServiceExtension
+│   │   │   └── Data
+│   │   ├── com.apple.findmy.FindMyWidgetIntentsItems
+│   │   │   └── Data
+│   │   ├── com.apple.findmy.FindMyWidgetIntentsPeople
+│   │   │   └── Data
+│   │   ├── com.apple.findmy.FindMyWidgetItems
+│   │   │   └── Data
+│   │   ├── com.apple.findmy.FindMyWidgetPeople
+│   │   │   └── Data
+│   │   ├── com.apple.freeform
+│   │   │   └── Data
+│   │   ├── com.apple.freeform.USDRendererExtension
+│   │   │   └── Data
+│   │   ├── com.apple.freeform.sharingextension
+│   │   │   └── Data
+│   │   ├── com.apple.fskit.exfat
+│   │   │   └── Data
+│   │   ├── com.apple.fskit.msdos
+│   │   │   └── Data
+│   │   ├── com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension
+│   │   │   └── Data
+│   │   ├── com.apple.garageband10
+│   │   │   └── Data
+│   │   ├── com.apple.geod
+│   │   │   └── Data
+│   │   ├── com.apple.grapher
+│   │   │   └── Data
+│   │   ├── com.apple.helpviewer
+│   │   │   └── Data
+│   │   ├── com.apple.helpviewer.HelpViewer-Quicklook
+│   │   │   └── Data
+│   │   ├── com.apple.iBooks.BooksNotificationContentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.iBooks.engagementExtension
+│   │   │   └── Data
+│   │   ├── com.apple.iBooks.iBooksSpotlightExtension
+│   │   │   └── Data
+│   │   ├── com.apple.iBooksX
+│   │   │   └── Data
+│   │   ├── com.apple.iBooksX.BooksThumbnail
+│   │   │   └── Data
+│   │   ├── com.apple.iBooksX.CacheDelete
+│   │   │   └── Data
+│   │   ├── com.apple.iBooksX.DiskSpaceEfficiency
+│   │   │   └── Data
+│   │   ├── com.apple.iBooksX.SharingExtension
+│   │   │   └── Data
+│   │   ├── com.apple.iCal
+│   │   │   └── Data
+│   │   ├── com.apple.iCal.CalendarNotificationContentExtention-OSX
+│   │   │   └── Data
+│   │   ├── com.apple.iCal.CalendarWidgetExtension
+│   │   │   └── Data
+│   │   ├── com.apple.iCal.FaceTimeExtension
+│   │   │   └── Data
+│   │   ├── com.apple.iCloudDriveCore.telemetry-disk-checker
+│   │   │   └── Data
+│   │   ├── com.apple.iCloudQuota.ICQFollowup
+│   │   │   └── Data
+│   │   ├── com.apple.iMovieApp
+│   │   │   └── Data
+│   │   ├── com.apple.iWork.ExternalResourceAccessor
+│   │   │   └── Data
+│   │   ├── com.apple.iWork.ExternalResourceValidator
+│   │   │   └── Data
+│   │   ├── com.apple.iWork.Keynote
+│   │   │   └── Data
+│   │   ├── com.apple.iWork.Numbers
+│   │   │   └── Data
+│   │   ├── com.apple.iWork.Pages
+│   │   │   └── Data
+│   │   ├── com.apple.iWork.Pages.EndNoteShim
+│   │   │   └── Data
+│   │   ├── com.apple.ibooks.BookLibrary.BooksDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.ibooks.BookLibraryCore.BooksAskPermissionExtension
+│   │   │   └── Data
+│   │   ├── com.apple.icloud.SPOwner.SearchPartyDiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.icloud.apps.messages.business.extension
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.ChineseHandwriting
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.EmojiFunctionRowItem
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.HindiIM
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.Korean
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.Kotoeri.KanaTyping
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.Kotoeri.RomajiTyping
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.SCIM
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.TCIM
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.TYIM
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.TransliterationIM
+│   │   │   └── Data
+│   │   ├── com.apple.inputmethod.VietnameseIM
+│   │   │   └── Data
+│   │   ├── com.apple.intelligenceplatform.IntelligencePlatform.DiagnosticExtension
+│   │   │   └── Data
+│   │   ├── com.apple.internal.DataDetectorsRemoteScanner
+│   │   │   └── Data
+│   │   ├── com.apple.iwork.ArchiveUpgrader
+│   │   │   └── Data
+│   │   ├── com.apple.languageassetd
+│   │   │   └── Data
+│   │   ├── com.apple.lighthouse.SiriCoreMetricsWorker
+│   │   │   └── Data
+│   │   ├── com.apple.mail  [error opening dir]
+│   │   ├── com.apple.mail.MailNotificationContentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.mail.MailQuickLookExtension
+│   │   │   └── Data
+│   │   ├── com.apple.mail.SpotlightIndexExtension
+│   │   │   └── Data
+│   │   ├── com.apple.mcx.ProfileHelper
+│   │   │   └── Data
+│   │   ├── com.apple.mediaanalysisd
+│   │   │   └── Data
+│   │   ├── com.apple.mediastream.mstreamd
+│   │   │   └── Data
+│   │   ├── com.apple.messages.AssistantExtension
+│   │   │   └── Data
+│   │   ├── com.apple.messages.MapRenderingService
+│   │   │   └── Data
+│   │   ├── com.apple.messages.ReplyExtension
+│   │   │   └── Data
+│   │   ├── com.apple.messages.ShareExtension
+│   │   │   └── Data
+│   │   ├── com.apple.messages.StorageManagementExtension
+│   │   │   └── Data
+│   │   ├── com.apple.mlhost.CloudWorker
+│   │   │   └── Data
+│   │   ├── com.apple.mlhost.SampleWorker
+│   │   │   └── Data
+│   │   ├── com.apple.mlhost.TelemetryWorker
+│   │   │   └── Data
+│   │   ├── com.apple.mobileslideshow.photo-picker
+│   │   │   └── Data
+│   │   ├── com.apple.mobileslideshow.photospicker
+│   │   │   └── Data
+│   │   ├── com.apple.mobiletimer
+│   │   │   └── Data
+│   │   ├── com.apple.mobiletimer-framework.MobileTimerIntents
+│   │   │   └── Data
+│   │   ├── com.apple.mobiletimer.WorldClockWidget
+│   │   │   └── Data
+│   │   ├── com.apple.news  [error opening dir]
+│   │   ├── com.apple.news.articlenotificationextension
+│   │   │   └── Data
+│   │   ├── com.apple.news.engagementExtension
+│   │   │   └── Data
+│   │   ├── com.apple.news.openinnews
+│   │   │   └── Data
+│   │   ├── com.apple.news.tag
+│   │   │   └── Data
+│   │   ├── com.apple.news.widget
+│   │   │   └── Data
+│   │   ├── com.apple.news.widgetintents
+│   │   │   └── Data
+│   │   ├── com.apple.notificationcenterui
+│   │   │   └── Data
+│   │   ├── com.apple.osanalytics.IPSExtension
+│   │   │   └── Data
+│   │   ├── com.apple.osx-tailspin
+│   │   │   └── Data
+│   │   ├── com.apple.photoanalysisd
+│   │   │   └── Data
+│   │   ├── com.apple.photolibraryd
+│   │   │   └── Data
+│   │   ├── com.apple.photos.ImageConversionService
+│   │   │   └── Data
+│   │   ├── com.apple.photos.VideoConversionService
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts.MacPodcastsStorageExtension
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts.MacQuicklookExtension
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts.PodcastsAuthAgent
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts.PodcastsNotificationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts.SpotlightIndexExtension
+│   │   │   └── Data
+│   │   ├── com.apple.podcasts.widget
+│   │   │   └── Data
+│   │   ├── com.apple.preferencepane.security.AdvertisingExtension
+│   │   │   └── Data
+│   │   ├── com.apple.preferencepane.security.PrivacyAnalytics
+│   │   │   └── Data
+│   │   ├── com.apple.preferencepane.security.PrivacyTrackingAwareness.PrivacyPhotos
+│   │   │   └── Data
+│   │   ├── com.apple.preferences.sharing.SharingBluetoothService
+│   │   │   └── Data
+│   │   ├── com.apple.preferences.sharing.SharingPrefsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.proactive.PersonalUnderstanding.LighthousePlugin
+│   │   │   └── Data
+│   │   ├── com.apple.quicklook.QuickLookUIService
+│   │   │   └── Data
+│   │   ├── com.apple.quicklook.ui.helper
+│   │   │   └── Data
+│   │   ├── com.apple.reminders
+│   │   │   └── Data
+│   │   ├── com.apple.reminders.WidgetExtension
+│   │   │   └── Data
+│   │   ├── com.apple.reminders.macOSIntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.reminders.quicklookextension
+│   │   │   └── Data
+│   │   ├── com.apple.reminders.sharingextension
+│   │   │   └── Data
+│   │   ├── com.apple.replayKit.RPBroadcastActivityExtension-macOS
+│   │   │   └── Data
+│   │   ├── com.apple.replayKit.RPVideoEditorExtension-macOS
+│   │   │   └── Data
+│   │   ├── com.apple.routined
+│   │   │   └── Data
+│   │   ├── com.apple.scenekit.SCNSceneLoader
+│   │   │   └── Data
+│   │   ├── com.apple.screensaver.AlbumArtwork
+│   │   │   └── Data
+│   │   ├── com.apple.settings.PrivacySecurity.extension
+│   │   │   └── Data
+│   │   ├── com.apple.settings.Storage
+│   │   │   └── Data
+│   │   ├── com.apple.share.AirDrop.send
+│   │   │   └── Data
+│   │   ├── com.apple.share.CloudSharing.invite
+│   │   │   └── Data
+│   │   ├── com.apple.share.CopyLink.invite
+│   │   │   └── Data
+│   │   ├── com.apple.share.Mail.compose
+│   │   │   └── Data
+│   │   ├── com.apple.share.Mail.compose-back-to-sender
+│   │   │   └── Data
+│   │   ├── com.apple.share.Messages.window
+│   │   │   └── Data
+│   │   ├── com.apple.share.System.add-to-iphoto
+│   │   │   └── Data
+│   │   ├── com.apple.share.System.add-to-safari-reading-list
+│   │   │   └── Data
+│   │   ├── com.apple.share.System.set-account-picture
+│   │   │   └── Data
+│   │   ├── com.apple.share.System.set-desktop-image
+│   │   │   └── Data
+│   │   ├── com.apple.sharing.ShareSheetUI
+│   │   │   └── Data
+│   │   ├── com.apple.shortcuts
+│   │   │   └── Data
+│   │   ├── com.apple.shortcuts.QuickLookExtension
+│   │   │   └── Data
+│   │   ├── com.apple.shortcuts.Run-Workflow
+│   │   │   └── Data
+│   │   ├── com.apple.shortcuts.ShortcutsWidget
+│   │   │   └── Data
+│   │   ├── com.apple.shortcuts.ThumbnailExtension
+│   │   │   └── Data
+│   │   ├── com.apple.shortcuts.events
+│   │   │   └── Data
+│   │   ├── com.apple.sidecar.DisplayMarkup
+│   │   │   └── Data
+│   │   ├── com.apple.siri.DeepSyncVerificationService
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriAppLaunchIntents.AppLaunchIntentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriContactsIntents.ContactsIntentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriGeo.SiriGeoIntentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegmentation
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegments.Plugin
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriSettingsIntents.SettingsIntentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriSignals.MusicAppSelectionPFLPlugin
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriSuggestionsLightHousePlugin
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriTimeInternal.AlarmIntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriTimeInternal.TimerIntentsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.SiriVideoIntents.VideoIntentExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.media-indexer
+│   │   │   └── Data
+│   │   ├── com.apple.siri.metrics.DevicePropertiesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.metrics.ExperimentationExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.metrics.MetricsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.parsec.CoreParsec.SearchPoirotExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siri.parsec.HashtagImagesApp.HashtagImagesExtension
+│   │   │   └── Data
+│   │   ├── com.apple.siriplugin.FileSearch
+│   │   │   └── Data
+│   │   ├── com.apple.speech.MacinTalkFramework.MacinTalkAUSP
+│   │   │   └── Data
+│   │   ├── com.apple.speech.MacinTalkFramework.WardaSynthesizer.arm64
+│   │   │   └── Data
+│   │   ├── com.apple.speech.MacinTalkFramework.WardaSynthesizer.x86-64
+│   │   │   └── Data
+│   │   ├── com.apple.speech.SpeechSynthesisServerXPC
+│   │   │   └── Data
+│   │   ├── com.apple.ssinvitationagent
+│   │   │   └── Data
+│   │   ├── com.apple.stocks  [error opening dir]
+│   │   ├── com.apple.stocks.detailintents
+│   │   │   └── Data
+│   │   ├── com.apple.stocks.widget
+│   │   │   └── Data
+│   │   ├── com.apple.system.airplay
+│   │   │   └── Data
+│   │   ├── com.apple.systempreferences
+│   │   │   └── Data
+│   │   ├── com.apple.systempreferences.AppleIDSettings
+│   │   │   └── Data
+│   │   ├── com.apple.systempreferences.GeneralSettings
+│   │   │   └── Data
+│   │   ├── com.apple.systempreferences.SpotlightIndexExtension
+│   │   │   └── Data
+│   │   ├── com.apple.texttospeech.SiriAUSP
+│   │   │   └── Data
+│   │   ├── com.apple.tips
+│   │   │   └── Data
+│   │   ├── com.apple.tips.TipsAppQuicklook-macOS
+│   │   │   └── Data
+│   │   ├── com.apple.tips.Widget
+│   │   │   └── Data
+│   │   ├── com.apple.tonelibraryd
+│   │   │   └── Data
+│   │   ├── com.apple.videoapps.OOPDebayerService
+│   │   │   └── Data
+│   │   ├── com.apple.voicebankingd
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.ca-package
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.dynamic
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.gradient
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.image
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.monterey
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.ventura
+│   │   │   └── Data
+│   │   ├── com.apple.wallpaper.extension.video
+│   │   │   └── Data
+│   │   ├── com.apple.weather
+│   │   │   └── Data
+│   │   ├── com.apple.weather.WeatherIntents
+│   │   │   └── Data
+│   │   ├── com.apple.weather.diagnosticextension
+│   │   │   └── Data
+│   │   ├── com.apple.weather.widget
+│   │   │   └── Data
+│   │   ├── com.apple.widgetkit.simulator
+│   │   │   └── Data
+│   │   ├── com.apple.wifi-settings-extension
+│   │   │   └── Data
+│   │   ├── com.apple.wifiqa.NPTKit.NPTWiFiDiagnosticsExtension
+│   │   │   └── Data
+│   │   ├── com.apple.windowmanager.ShowDesktopEducation
+│   │   │   └── Data
+│   │   ├── com.apple.windowmanager.StageManagerOnboarding
+│   │   │   └── Data
+│   │   ├── com.inconnecting.turbovpnformac
+│   │   │   └── Data
+│   │   ├── com.inconnecting.turbovpnformac.tunnel
+│   │   │   └── Data
+│   │   ├── com.inconnecting.turbovpnformac.tunnel-ssr
+│   │   │   └── Data
+│   │   ├── com.microsoft.Excel
+│   │   │   └── Data
+│   │   ├── com.microsoft.Microsoft-Mashup-Container
+│   │   │   └── Data
+│   │   ├── com.microsoft.OneDrive-mac.FileProvider
+│   │   │   └── Data
+│   │   ├── com.microsoft.OneDrive-mac.FinderSync
+│   │   │   └── Data
+│   │   ├── com.microsoft.OneDrive.FileProvider
+│   │   │   └── Data
+│   │   ├── com.microsoft.OneDrive.FinderSync
+│   │   │   └── Data
+│   │   ├── com.microsoft.OneDriveLauncher
+│   │   │   └── Data
+│   │   ├── com.microsoft.Outlook
+│   │   │   └── Data
+│   │   ├── com.microsoft.Outlook.CalendarWidget
+│   │   │   └── Data
+│   │   ├── com.microsoft.Powerpoint
+│   │   │   └── Data
+│   │   ├── com.microsoft.SkyDriveLauncher
+│   │   │   └── Data
+│   │   ├── com.microsoft.Word
+│   │   │   └── Data
+│   │   ├── com.microsoft.errorreporting
+│   │   │   └── Data
+│   │   ├── com.microsoft.onenote.mac
+│   │   │   └── Data
+│   │   ├── com.microsoft.onenote.mac.shareextension
+│   │   │   └── Data
+│   │   ├── com.microsoft.openxml.excel.app
+│   │   │   └── Data
+│   │   ├── com.microsoft.outlook.profilemanager
+│   │   │   └── Data
+│   │   ├── com.vanyavpn.macos.client
+│   │   │   └── Data
+│   │   ├── com.vanyavpn.macos.client.VpnExtension
+│   │   │   └── Data
+│   │   ├── com.vanyavpn.macos.client.launcher
+│   │   │   └── Data
+│   │   ├── ru.keepcoder.Telegram
+│   │   │   └── Data
+│   │   ├── ru.keepcoder.Telegram.TelegramShare
+│   │   │   └── Data
+│   │   └── solutions.wzp.translator
+│   │       └── Data
+│   ├── Cookies  [error opening dir]
+│   ├── CoreFollowUp  [error opening dir]
+│   ├── DES
+│   │   ├── Records
+│   │   │   └── com.apple.reminders.des
+│   │   └── deviceIdentifiers.json
+│   ├── Daemon Containers  [error opening dir]
+│   ├── DataDeliveryServices
+│   │   └── ddsassertiondata.plist
+│   ├── Dictionaries
+│   │   └── CoreDataUbiquitySupport
+│   │       └── liza~E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891
+│   ├── DoNotDisturb  [error opening dir]
+│   ├── DuetExpertCenter  [error opening dir]
+│   ├── Favorites
+│   ├── Finance
+│   │   ├── finance_cloud.db
+│   │   ├── finance_cloud.db-shm
+│   │   ├── finance_cloud.db-wal
+│   │   ├── finance_cloud_ckAssets
+│   │   ├── finance_local.db
+│   │   ├── finance_local.db-shm
+│   │   └── finance_local.db-wal
+│   ├── FontCollections
+│   │   ├── PDF.collection
+│   │   ├── Веб.collection
+│   │   ├── Забавные.collection
+│   │   ├── Моноширинные.collection
+│   │   ├── Современные.collection
+│   │   └── Традиционные.collection
+│   ├── Fonts
+│   │   ├── Cruinn Black.ttf
+│   │   ├── Cruinn Bold.ttf
+│   │   ├── Cruinn Light.ttf
+│   │   ├── Cruinn Medium.ttf
+│   │   ├── Cruinn Regular.ttf
+│   │   ├── Cruinn Thin.ttf
+│   │   ├── Nudla-Thin.ttf
+│   │   ├── Rounded.ttf
+│   │   ├── SanghaKali-Regular.otf
+│   │   ├── Sibila.otf
+│   │   ├── SoyuzGroteskBold.ttf
+│   │   ├── Soyuz_Grotesk_Bold.otf
+│   │   ├── TexgyrecursorBold.otf
+│   │   ├── TexgyrecursorBolditalic.otf
+│   │   ├── TexgyrecursorItalic.otf
+│   │   ├── TexgyrecursorRegular.otf
+│   │   ├── Unageo-Black-Italic.ttf
+│   │   ├── Unageo-Black.ttf
+│   │   ├── Unageo-Bold-Italic.ttf
+│   │   ├── Unageo-Bold.ttf
+│   │   ├── Unageo-Extrabold-Italic.ttf
+│   │   ├── Unageo-Extrabold.ttf
+│   │   ├── Unageo-Light-Italic.ttf
+│   │   ├── Unageo-Light.ttf
+│   │   ├── Unageo-Medium-Italic.ttf
+│   │   ├── Unageo-Medium.ttf
+│   │   ├── Unageo-Regular-Italic.ttf
+│   │   ├── Unageo-Regular.ttf
+│   │   ├── Unageo-Semibold-Italic.ttf
+│   │   ├── Unageo-Semibold.ttf
+│   │   ├── gropled-bold.otf
+│   │   └── lena.ttf
+│   ├── Fonts (Removed)
+│   │   ├── 03-30-2024 17_00_02 GMT+3
+│   │   │   └── Unageo-Light.ttf
+│   │   └── 03-30-2024 17_08_46 GMT+3
+│   │       └── Nudla-Thin.otf
+│   ├── FrontBoard
+│   │   ├── applicationState.db
+│   │   ├── applicationState.db-shm
+│   │   └── applicationState.db-wal
+│   ├── GameKit
+│   ├── Google
+│   │   ├── Google Chrome Brand.plist
+│   │   └── GoogleSoftwareUpdate
+│   │       ├── Actives
+│   │       ├── CountingMetrics.plist
+│   │       ├── Crashes
+│   │       ├── GoogleSoftwareUpdate.bundle
+│   │       ├── Reports
+│   │       ├── Servers
+│   │       ├── Stats
+│   │       └── TicketStore
+│   ├── Group Containers
+│   │   ├── 243LU875E5.groups.com.apple.podcasts
+│   │   │   ├── Documents
+│   │   │   ├── Library
+│   │   │   └── PodcastContentService
+│   │   ├── 2FXRJJ9EGT.com.vanyavpn.macos.client
+│   │   │   ├── Library
+│   │   │   └── Logs
+│   │   ├── 6N38VWS5BX.ru.keepcoder.Telegram
+│   │   │   ├── Library
+│   │   │   └── appstore
+│   │   ├── 6N38VWS5BX.ru.keepcoder.Telegram.FocusIntents
+│   │   │   └── Library
+│   │   ├── 6N38VWS5BX.ru.keepcoder.Telegram.TelegramShare
+│   │   │   └── Library
+│   │   ├── 74J34U3R6X.com.apple.iWork
+│   │   │   └── Library
+│   │   ├── Adobe-Hub-App
+│   │   │   └── Library
+│   │   ├── BJ4HAAB9B3.ZoomClient3rd
+│   │   │   ├── Library
+│   │   │   ├── s.zoomclient
+│   │   │   └── s.zzhost
+│   │   ├── JQ525L2MZD.com.adobe.JQ525.flags
+│   │   │   ├── Library
+│   │   │   └── licflags
+│   │   ├── JQ525L2MZD.com.adobe.NGL
+│   │   │   ├── ASNPsv2
+│   │   │   ├── Library
+│   │   │   └── licflags
+│   │   ├── UBF8T346G9.Office
+│   │   │   ├── ComRPC32
+│   │   │   ├── FontCache
+│   │   │   ├── Library
+│   │   │   ├── MeContact.plist
+│   │   │   ├── Microsoft Office ACL [English]
+│   │   │   ├── Microsoft Office ACL [Portuguese]
+│   │   │   ├── Microsoft Office ACL [Russian]
+│   │   │   ├── MicrosoftRegistrationDB
+│   │   │   ├── MicrosoftRegistrationDB.reg -> /Users/liza/Library/Group Containers/UBF8T346G9.Office/MicrosoftRegistrationDB/MicrosoftRegistrationDB_104764222830.reg
+│   │   │   ├── MicrosoftRegistrationDBSentinel
+│   │   │   ├── OneNote
+│   │   │   ├── Outlook
+│   │   │   ├── OutlookProfile.plist
+│   │   │   ├── Profile Settings
+│   │   │   ├── ProofingPrefs.plist
+│   │   │   ├── SetupInfo.plist
+│   │   │   ├── TemporaryItems
+│   │   │   ├── User Content.localized
+│   │   │   ├── lck06e43e197acf44f8
+│   │   │   ├── lck41d80b9bd8a801e1
+│   │   │   ├── lck43a0e9f1ef280aec
+│   │   │   ├── lck79bf2c3bdcc55417
+│   │   │   └── Вспомогательный словарь
+│   │   ├── UBF8T346G9.OfficeOneDriveSyncIntegration
+│   │   │   └── Library
+│   │   ├── UBF8T346G9.OfficeOsfWebHost
+│   │   │   └── Library
+│   │   ├── UBF8T346G9.OneDriveStandaloneSuite
+│   │   │   ├── FileProviderLogs
+│   │   │   ├── Library
+│   │   │   └── UpdateRingSettings.json
+│   │   ├── UBF8T346G9.OneDriveSyncClientSuite
+│   │   │   └── Library
+│   │   ├── UBF8T346G9.ms
+│   │   │   ├── Library
+│   │   │   ├── MERP.ObjC.8C719833-7D8B-446F-890F-0BC507BFABBE.plist
+│   │   │   ├── MerpTempItems
+│   │   │   ├── Microsoft AutoUpdate.MERP.params.txt
+│   │   │   ├── Microsoft Excel.MERP.params.txt
+│   │   │   ├── Microsoft OneNote.MERP.params.txt
+│   │   │   ├── Microsoft Outlook.MERP.params.txt
+│   │   │   ├── Microsoft PowerPoint.MERP.params.txt
+│   │   │   ├── Microsoft Word.MERP.params.txt
+│   │   │   ├── cloudPolicy
+│   │   │   ├── com.microsoft.autoupdate.fba
+│   │   │   └── com.microsoft.autoupdate2
+│   │   ├── ZMX9RDZH55.vpnmasterformac.group
+│   │   │   ├── Library
+│   │   │   ├── general.xxx
+│   │   │   ├── httpconf
+│   │   │   ├── httptemplate
+│   │   │   ├── kAPPToTunelMessageKey.archive
+│   │   │   ├── log
+│   │   │   ├── proxy.xxx
+│   │   │   ├── socks.xxx
+│   │   │   ├── tunnel.log
+│   │   │   └── vpnbypasslist.xxx
+│   │   ├── com.adobe.accmac.explinder
+│   │   │   └── Library
+│   │   ├── com.apple.Home.group
+│   │   │   └── Library
+│   │   ├── com.apple.MailPersonaStorage
+│   │   │   └── Library
+│   │   ├── com.apple.MessagesLegacyTransferArchive
+│   │   │   └── Library
+│   │   ├── com.apple.PreviewLegacySignaturesConversion  [error opening dir]
+│   │   ├── com.apple.SonicKit
+│   │   │   └── Library
+│   │   ├── com.apple.bird
+│   │   │   └── Library
+│   │   ├── com.apple.icloud.searchpartyd.container.appGroup
+│   │   │   └── Library
+│   │   ├── com.apple.messages
+│   │   │   └── Library
+│   │   ├── com.apple.systempreferences.cache  [error opening dir]
+│   │   ├── group.airapps.shared
+│   │   │   └── Library
+│   │   ├── group.com.apple.AppleSpell  [error opening dir]
+│   │   ├── group.com.apple.CloudDocs
+│   │   │   └── Library
+│   │   ├── group.com.apple.DeviceActivity
+│   │   │   └── Library
+│   │   ├── group.com.apple.FamilyControls
+│   │   │   └── Library
+│   │   ├── group.com.apple.KerberosExtension
+│   │   │   └── Library
+│   │   ├── group.com.apple.ManagedSettings
+│   │   │   └── Library
+│   │   ├── group.com.apple.Maps
+│   │   │   └── Library
+│   │   ├── group.com.apple.PegasusConfiguration  [error opening dir]
+│   │   ├── group.com.apple.Photos.PhotosFileProvider
+│   │   │   └── Library
+│   │   ├── group.com.apple.Safari.SandboxBroker  [error opening dir]
+│   │   ├── group.com.apple.VoiceMemos.shared
+│   │   │   └── Library
+│   │   ├── group.com.apple.accessibility.voicebanking  [error opening dir]
+│   │   ├── group.com.apple.calendar  [error opening dir]
+│   │   ├── group.com.apple.chronod  [error opening dir]
+│   │   ├── group.com.apple.feedback
+│   │   │   └── Library
+│   │   ├── group.com.apple.feedbacklogger  [error opening dir]
+│   │   ├── group.com.apple.freeform
+│   │   │   ├── Import
+│   │   │   ├── Library
+│   │   │   └── Snapshot.plist
+│   │   ├── group.com.apple.gamecenter  [error opening dir]
+│   │   ├── group.com.apple.helpviewer.content
+│   │   │   └── Library
+│   │   ├── group.com.apple.iBooks  [error opening dir]
+│   │   ├── group.com.apple.iCloudDrive  [error opening dir]
+│   │   ├── group.com.apple.icloud.fm
+│   │   │   └── Library
+│   │   ├── group.com.apple.inputmethod.chineseim
+│   │   │   └── Library
+│   │   ├── group.com.apple.ip.redirects
+│   │   │   └── Library
+│   │   ├── group.com.apple.mail  [error opening dir]
+│   │   ├── group.com.apple.mlhost  [error opening dir]
+│   │   ├── group.com.apple.mobileslideshow.PhotosFileProvider
+│   │   │   └── Library
+│   │   ├── group.com.apple.news
+│   │   │   └── Library
+│   │   ├── group.com.apple.newsd
+│   │   │   └── Library
+│   │   ├── group.com.apple.notes  [error opening dir]
+│   │   ├── group.com.apple.notes.import
+│   │   │   └── Library
+│   │   ├── group.com.apple.notesdebug
+│   │   │   └── Library
+│   │   ├── group.com.apple.people
+│   │   │   └── Library
+│   │   ├── group.com.apple.photolibraryd.private
+│   │   │   └── Library
+│   │   ├── group.com.apple.private.translation  [error opening dir]
+│   │   ├── group.com.apple.reminders  [error opening dir]
+│   │   ├── group.com.apple.screencapture  [error opening dir]
+│   │   ├── group.com.apple.secure-control-center-preferences  [error opening dir]
+│   │   ├── group.com.apple.sharingd  [error opening dir]
+│   │   ├── group.com.apple.shortcuts  [error opening dir]
+│   │   ├── group.com.apple.siri.userfeedbacklearning  [error opening dir]
+│   │   ├── group.com.apple.spotlight  [error opening dir]
+│   │   ├── group.com.apple.stocks  [error opening dir]
+│   │   ├── group.com.apple.stocks-news
+│   │   │   └── Library
+│   │   ├── group.com.apple.storekit
+│   │   │   ├── Documents
+│   │   │   └── Library
+│   │   ├── group.com.apple.tips  [error opening dir]
+│   │   ├── group.com.apple.tipsnext  [error opening dir]
+│   │   ├── group.com.apple.transparency  [error opening dir]
+│   │   ├── group.com.apple.uiunderstanding
+│   │   │   └── Library
+│   │   ├── group.com.apple.weather  [error opening dir]
+│   │   ├── group.is.workflow.my.app
+│   │   │   └── Library
+│   │   ├── group.is.workflow.shortcuts
+│   │   │   ├── Library
+│   │   │   └── Temporary
+│   │   └── group.solutions.wzp.translator.shared
+│   │       ├── Library
+│   │       ├── db.realm
+│   │       ├── db.realm.lock
+│   │       ├── db.realm.management
+│   │       └── db.realm.note
+│   ├── HTTPStorages
+│   │   ├── Creative Cloud Content Manager.node
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── MiniLauncher
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── askpermissiond
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── chrome_crashpad_handler
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.EA.EA-app-Migrator
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.AIRobin
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.AdobeCRDaemon
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.AdobeIPCBroker
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.CCXProcess
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.Install
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.Install.binarycookies
+│   │   ├── com.adobe.acc.AdobeCreativeCloud
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.acc.AdobeDesktopService
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.acc.AdobeDesktopService.binarycookies
+│   │   ├── com.adobe.accmac
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.ccd.helper
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.illustrator
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.adobe.illustrator.binarycookies
+│   │   ├── com.apple.AMPDevicesAgent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.AMPLibraryAgent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.AOSPushRelay
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.AddressBookSourceSync
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.AppleMediaServicesUI
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.AppleMediaServicesUIDynamicService
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.Family-Settings.extension
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.Music
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.NewDeviceOutreach
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.Safari
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.Spotlight
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.SystemProfiler
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.TV
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.accountsd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.amsaccountsd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.appleaccountd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.appstoreagent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.assistant_service
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.assistantd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.betaenrollmentd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.controlcenter
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.ctcategories.service
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.finder
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.helpd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.iCloudHelper
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.iCloudNotificationAgent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.itunescloudd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.nbagent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.siriknowledged
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.storekitagent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.systempreferences
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.tipsd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.translationd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.apple.weatherd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.bitTorrent.utweb
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.ea.Origin
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.google.GoogleUpdater
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.google.Keystone
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.hnc.Discord
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.hnc.Discord.binarycookies
+│   │   ├── com.microsoft.OneDrive
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.microsoft.OneDrive.binarycookies
+│   │   ├── com.microsoft.OneDriveStandaloneUpdater
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.microsoft.OneDriveStandaloneUpdater.binarycookies
+│   │   ├── com.microsoft.SharePoint-mac
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.microsoft.SharePoint-mac.binarycookies
+│   │   ├── com.microsoft.VSCode
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.microsoft.autoupdate.fba
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── com.microsoft.autoupdate2
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── destinationd
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── familycircled
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── mbuseragent
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── node
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── ru.yandex.desktop.music
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── ru.yandex.desktop.telemost.binarycookies
+│   │   ├── us.zoom.xos
+│   │   │   ├── httpstorages.sqlite
+│   │   │   ├── httpstorages.sqlite-shm
+│   │   │   └── httpstorages.sqlite-wal
+│   │   ├── us.zoom.xos.binarycookies
+│   │   └── walletAvailabilityCheckTool
+│   │       ├── httpstorages.sqlite
+│   │       ├── httpstorages.sqlite-shm
+│   │       └── httpstorages.sqlite-wal
+│   ├── HomeKit  [error opening dir]
+│   ├── IdentityServices  [error opening dir]
+│   ├── Input Methods
+│   ├── IntelligencePlatform  [error opening dir]
+│   ├── Intents
+│   │   └── Images
+│   │       ├── AC8C486F-AFAE-C4B0-793E-2B25DB1A39EF.png
+│   │       └── Persistent
+│   ├── Internet Plug-Ins
+│   ├── Jupyter
+│   │   └── runtime
+│   │       ├── kernel-v30522a9fdea1a5328b811c35d4bfaedabbd0045eb.json
+│   │       ├── kernel-v30e1f55ff07f525e93e47092868dff4e41e6bd63e.json
+│   │       ├── kernel-v3119e34519cfaa84a2ef4fa3cfa6e9e38a7ac9ac0.json
+│   │       ├── kernel-v314be73001e46151fea124932be0f403523000ba2.json
+│   │       ├── kernel-v31b4b34d76581edfbbd9f365bce6855ef47ff38c1.json
+│   │       ├── kernel-v31d8786fbeef3c7b776f688848f57410d6b88a706.json
+│   │       ├── kernel-v31ff33e8d763cab636d2bb193c6f97104344a47f0.json
+│   │       ├── kernel-v322f929e9729f85418cb45d9e15ee3e6315b87b32.json
+│   │       ├── kernel-v324d4b9127c16ea7f36198316b7e4bda2c8920bea.json
+│   │       ├── kernel-v3261b00afcb2bcaadb330b2b84bbc4e2e7b225a3b.json
+│   │       ├── kernel-v327266707b10cd283f60a3e8d8663fbcc21e5c183.json
+│   │       ├── kernel-v327d59fedd3f818bc46aae88e75e202156da7451c.json
+│   │       ├── kernel-v329c1530fc6544fd89ecea1653859e1b0f19a8f45.json
+│   │       ├── kernel-v333bbb4057aa507b3e272ea4fab3b33c2f89c9b56.json
+│   │       ├── kernel-v33e79c0e7e7bef06f973996784347b3f41ea466f9.json
+│   │       ├── kernel-v342d344a062a51ea94e4e48b0a3738ca56ca7daea.json
+│   │       ├── kernel-v3434f068cf5652b7bcd86c750a75a9492c474bfd3.json
+│   │       ├── kernel-v348c09fd454e9a9ef627b0f6ae7b058fd0f9bd02c.json
+│   │       ├── kernel-v34e34ee40b7d9fe05b72ad3a0a133e59742eb964a.json
+│   │       ├── kernel-v3519f0d5694a3060dc9eb918ffde55364dd784508.json
+│   │       ├── kernel-v3539395617c10ed1aad0d2eac34f4d611d51f82c8.json
+│   │       ├── kernel-v3540471eae372b2976b297b1cb07cf114fafd2dee.json
+│   │       ├── kernel-v35a5232b1f88048052381cdc03c5d4556a92175e9.json
+│   │       ├── kernel-v36586466e0c218643a74f7bbdcc8c861c467ca2ba.json
+│   │       ├── kernel-v366b57a5b2708191576d6616df91ea413f614b83c.json
+│   │       ├── kernel-v366f0ab6ffef74078ce827831eb74ca8042568835.json
+│   │       ├── kernel-v36fa8472cecf59c8ccbcb2a5873de167419ee9fa0.json
+│   │       ├── kernel-v377ca09dd5e9b46e149c76e841ba9fff146babec0.json
+│   │       ├── kernel-v37a4e2506dd7266c5187ab1a95f7bf2c6bb2bd5fc.json
+│   │       ├── kernel-v37fd29e3baacd9cacddc748f8abe6c5b51b75febc.json
+│   │       ├── kernel-v3829644efad43ff11495dba3b6f9e879c3a6966b0.json
+│   │       ├── kernel-v38ca11c7a7ecb77724b4ee1e72c61212795768f54.json
+│   │       ├── kernel-v39a48bc2da99fb4bd19a6dfd2ae860b4549ca7d06.json
+│   │       ├── kernel-v3a129f34f6e774c8c14614497e9a346865f1f27c4.json
+│   │       ├── kernel-v3a5f56b60259461265a91eaa4aea33b8e2fcd117f.json
+│   │       ├── kernel-v3a7b5f77a93f5592b7f68e38cd5bcd8e5c3c9d3d5.json
+│   │       ├── kernel-v3a9d62c2bb72d2c91c1a9c552b7d60aafabeab2af.json
+│   │       ├── kernel-v3abb77411145da81a87e283544a04bec9b1babcce.json
+│   │       ├── kernel-v3b1cad08d81f76b9b85f795f1136457d458ff77d4.json
+│   │       ├── kernel-v3b2e96d8aa2cb41fc53ef1d9885b275ea69956bd4.json
+│   │       ├── kernel-v3b7bd2ba8e0fe43b9802895253edf08841fb9ab21.json
+│   │       ├── kernel-v3b8c5ee200f1001d7e70d8ad17eceef0dddfff2c3.json
+│   │       ├── kernel-v3bafd543ae6ec2404961844fd5c69912b4d6f0ead.json
+│   │       ├── kernel-v3bd1d8b007ea9f414e8bbe0b847f87fca5690488e.json
+│   │       ├── kernel-v3c2b80521c67052c47d5bd4140385f4e3d3d0d40f.json
+│   │       ├── kernel-v3c6d932643f3e37e0942f661e70410900e4bfeb3b.json
+│   │       ├── kernel-v3ccf55d0e774a51609f4efee5d7f05663bc1ea037.json
+│   │       ├── kernel-v3ce164a6d20dcf487c2999db1c9a07dadf48a2a61.json
+│   │       ├── kernel-v3d311e2f7336339d53759d0b5f4de09ae177d3f00.json
+│   │       ├── kernel-v3d4a7816021f6b619be3a8495282f3821adcd02e7.json
+│   │       ├── kernel-v3d74ccc68c8a473fae44b50ac09c9964626ad0d53.json
+│   │       ├── kernel-v3df7dfe00c68e8391161db5ba4fe344c76615cf3c.json
+│   │       ├── kernel-v3dfc85e5342bf179abc77e55c52a3ec692565de25.json
+│   │       ├── kernel-v3e2731a7bdf39678925132f7f78827329d472423e.json
+│   │       ├── kernel-v3e5bf11bac2944022a7fde6528b6af2cb69548413.json
+│   │       ├── kernel-v3ef5df2067906b407feb63a46ff1f031a34c0415f.json
+│   │       ├── kernel-v3fe84415e7912703e135f98c2cc6cb755c684884a.json
+│   │       └── kernel-v3ffe79f2681037c4e14a7b27b8a5f98af1333bcf9.json
+│   ├── Keyboard
+│   │   ├── AutocorrectionRejections.db
+│   │   ├── VulgarWordUsage.db
+│   │   ├── en-dynamic.lm
+│   │   │   └── Info.plist
+│   │   ├── user_model_database.sqlite
+│   │   ├── user_model_database.sqlite-shm
+│   │   └── user_model_database.sqlite-wal
+│   ├── Keyboard Layouts
+│   ├── KeyboardServices
+│   │   ├── TextReplacements.db
+│   │   ├── TextReplacements.db-shm
+│   │   └── TextReplacements.db-wal
+│   ├── Keychains
+│   │   ├── E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891
+│   │   │   ├── Analytics
+│   │   │   ├── SOSAccountSettings.pb
+│   │   │   ├── com.apple.security.keychain-defaultContext.TrustedPeersHelper.db
+│   │   │   ├── com.apple.security.keychain-defaultContext.TrustedPeersHelper.db-shm
+│   │   │   ├── com.apple.security.keychain-defaultContext.TrustedPeersHelper.db-wal
+│   │   │   ├── keychain-2.db
+│   │   │   ├── keychain-2.db-shm
+│   │   │   ├── keychain-2.db-wal
+│   │   │   └── user.kb
+│   │   ├── login.keychain-db
+│   │   └── metadata.keychain-db
+│   ├── LanguageModeling
+│   │   ├── TrialData
+│   │   ├── bg-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── cs-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── da-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── de-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic-lexicon.dat
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── el-dynamic.lm
+│   │   │   └── Info.plist
+│   │   ├── en-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic-lexicon.dat
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── es-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── fi-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── fr-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── hu-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── it-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── nb-dynamic.lm
+│   │   │   └── Info.plist
+│   │   ├── nl-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic-lexicon.dat
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── pl-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── pt-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── ro-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── ru-dynamic.lm
+│   │   │   ├── Info.plist
+│   │   │   ├── dynamic-lexicon.dat
+│   │   │   ├── dynamic.dat
+│   │   │   ├── meta.dat
+│   │   │   └── tags.dat
+│   │   ├── tr-dynamic.lm
+│   │   │   └── Info.plist
+│   │   └── uk-dynamic.lm
+│   │       ├── Info.plist
+│   │       ├── dynamic-lexicon.dat
+│   │       ├── dynamic.dat
+│   │       ├── meta.dat
+│   │       └── tags.dat
+│   ├── LaunchAgents
+│   │   ├── com.ea.app.backgroundAgent.plist
+│   │   ├── com.google.GoogleUpdater.wake.plist
+│   │   ├── com.google.keystone.agent.plist
+│   │   └── com.google.keystone.xpcservice.plist
+│   ├── LockdownMode
+│   ├── Logs
+│   │   ├── Adobe
+│   │   │   ├── Adobe Illustrator
+│   │   │   ├── AdobeCRCommon
+│   │   │   ├── CrashPadDumps
+│   │   │   ├── Headlights
+│   │   │   ├── HeadlightsCC
+│   │   │   ├── com.adobe.dunamis
+│   │   │   ├── data_496.txt
+│   │   │   ├── tagdata_496.json
+│   │   │   └── tagdata_873.json
+│   │   ├── AdobeVulcan
+│   │   │   ├── AdobeIPCBroker.1.log
+│   │   │   ├── AdobeIPCBroker.2.log
+│   │   │   ├── AdobeIPCBroker.3.log
+│   │   │   ├── AdobeIPCBroker.4.log
+│   │   │   ├── AdobeIPCBroker.5.log
+│   │   │   └── AdobeIPCBroker.log
+│   │   ├── Assistant
+│   │   │   └── Analytics
+│   │   ├── Baseband
+│   │   ├── CSXS
+│   │   │   ├── CEP11-ILST.log
+│   │   │   ├── CEPHtmlEngine11-ILST-27.9.0-com.adobe.DesignLibraries.angular-renderer.log
+│   │   │   ├── CEPHtmlEngine11-ILST-27.9.0-com.adobe.DesignLibraries.angular.log
+│   │   │   ├── CEPHtmlEngine11-ILST-27.9.0-com.adobe.illustrator.OnBoarding-renderer.log
+│   │   │   ├── CEPHtmlEngine11-ILST-27.9.0-com.adobe.illustrator.OnBoarding.log
+│   │   │   ├── CEPHtmlEngine11-ILST-29.0.1-com.adobe.DesignLibraries.angular-renderer.log
+│   │   │   ├── CEPHtmlEngine11-ILST-29.0.1-com.adobe.DesignLibraries.angular.log
+│   │   │   ├── CEPHtmlEngine11-ILST-29.0.1-com.adobe.illustrator.OnBoarding-renderer.log
+│   │   │   ├── CEPHtmlEngine11-ILST-29.0.1-com.adobe.illustrator.OnBoarding.log
+│   │   │   └── crash_repo_pref.txt
+│   │   ├── CrashReporter
+│   │   │   └── Ingest
+│   │   ├── CreativeCloud
+│   │   │   ├── ACC
+│   │   │   ├── ACPLocalLogs
+│   │   │   ├── CCX Welcome
+│   │   │   ├── CoreSync
+│   │   │   └── Creative Cloud Libraries
+│   │   ├── DiagnosticReports
+│   │   │   ├── CloudServicesTopic_2025-02-04-232028_MacBook-Air-Elizaveta.diag
+│   │   │   ├── CloudServicesTopic_2025-02-05-052046_MacBook-Air-Elizaveta.diag
+│   │   │   ├── CloudServicesTopic_2025-02-06-092037_MacBook-Air-Elizaveta.diag
+│   │   │   ├── CloudServicesTopic_2025-02-09-102503_MacBook-Air-Elizaveta.diag
+│   │   │   ├── KeySyncTopic_2025-02-06-092045_MacBook-Air-Elizaveta.diag
+│   │   │   ├── KeySyncTopic_2025-02-09-102510_MacBook-Air-Elizaveta.diag
+│   │   │   ├── NetworkingTopic_2025-02-06-092032_MacBook-Air-Elizaveta.diag
+│   │   │   ├── NetworkingTopic_2025-02-06-092034_MacBook-Air-Elizaveta.diag
+│   │   │   ├── NetworkingTopic_2025-02-09-102503_MacBook-Air-Elizaveta.diag
+│   │   │   └── Retired
+│   │   ├── DiagnosticReportsForNewHardware
+│   │   ├── DiscRecording.log
+│   │   ├── JetBrains
+│   │   │   └── PyCharmCE2022.2
+│   │   ├── NGL
+│   │   │   ├── NGLClient_CCLibrary2.ngllogcontrolconfig
+│   │   │   ├── NGLClient_CCLibrary23.25.log
+│   │   │   ├── NGLClient_CCLibrary24.4.log
+│   │   │   ├── NGLClient_CCLibrary24.5.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-04 15-40-43-397.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-04 20-46-47-866.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-04 21-40-57-522.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-04 21-57-16-090.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-04 22-20-30-225.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-04 23-02-36-504.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 09-02-06-136.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 10-46-53-925.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 13-13-57-362.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 13-58-31-259.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 14-57-22-978.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 15-30-57-988.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 16-03-35-985.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 16-30-25-070.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-05 17-00-09-235.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-10 23-04-26-614.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 00-51-17-262.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 01-42-09-218.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 02-18-48-962.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 03-04-02-990.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 03-55-56-005.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 04-53-53-839.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 05-53-05-068.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 06-52-41-733.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 07-40-14-231.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 08-13-01-576.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 09-02-09-623.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 09-58-03-512.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 10-59-55-240.log
+│   │   │   ├── NGLClient_CCLibrary24.6 2025-02-11 16-22-07-388.log
+│   │   │   ├── NGLClient_CCLibrary24.6.log
+│   │   │   ├── NGLClient_CCXProcess1.ngllogcontrolconfig
+│   │   │   ├── NGLClient_CCXProcess14.15.log
+│   │   │   ├── NGLClient_CCXProcess15.0.log
+│   │   │   ├── NGLClient_CCXProcess15.1.log
+│   │   │   ├── NGLClient_CCXProcess15.2 2024-11-20 23-30-21-047.log
+│   │   │   ├── NGLClient_CCXProcess15.2 2024-11-22 16-38-10-890.log
+│   │   │   ├── NGLClient_CCXProcess15.2 2024-11-22 16-38-48-067.log
+│   │   │   ├── NGLClient_CCXProcess15.2 2025-01-06 14-15-31-395.log
+│   │   │   ├── NGLClient_CCXProcess15.2 2025-02-05 17-11-32-668.log
+│   │   │   ├── NGLClient_CCXProcess15.2.log
+│   │   │   ├── NGLClient_CCXProcess15.3.log
+│   │   │   ├── NGLClient_CCXProcess15.4 2024-05-07 12-29-33-656.log
+│   │   │   ├── NGLClient_CCXProcess15.4 2024-05-22 03-24-13-004.log
+│   │   │   ├── NGLClient_CCXProcess15.4 2024-06-06 22-25-09-775.log
+│   │   │   ├── NGLClient_CCXProcess15.4 2024-06-07 05-04-19-616.log
+│   │   │   ├── NGLClient_CCXProcess15.4.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-06-28 12-11-37-355.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-07-14 03-46-43-922.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-07-19 23-59-01-246.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-07-25 13-47-22-905.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-07-25 17-13-03-199.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-07-25 20-15-28-199.log
+│   │   │   ├── NGLClient_CCXProcess15.5 2024-07-26 10-46-49-799.log
+│   │   │   ├── NGLClient_CCXProcess15.5.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-08-06 18-44-46-092.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-08-07 09-57-11-312.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-08-21 17-28-20-203.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-08-21 18-53-15-038.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-08-23 10-14-49-316.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-09-06 22-37-43-075.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-09-08 13-38-22-649.log
+│   │   │   ├── NGLClient_CCXProcess15.7 2024-09-25 13-01-09-157.log
+│   │   │   ├── NGLClient_CCXProcess15.7.log
+│   │   │   ├── NGLClient_CCXProcess15.8 2024-10-08 21-24-34-767.log
+│   │   │   ├── NGLClient_CCXProcess15.8 2024-10-10 19-18-22-505.log
+│   │   │   ├── NGLClient_CCXProcess15.8 2024-10-10 19-19-41-077.log
+│   │   │   ├── NGLClient_CCXProcess15.8 2024-10-15 17-00-58-026.log
+│   │   │   ├── NGLClient_CCXProcess15.8 2024-11-11 09-54-45-648.log
+│   │   │   ├── NGLClient_CCXProcess15.8 2024-11-11 21-49-50-664.log
+│   │   │   ├── NGLClient_CCXProcess15.8.log
+│   │   │   ├── NGLClient_CoreSync1.ngllogcontrolconfig
+│   │   │   ├── NGLClient_CoreSync16.6.3.1.log
+│   │   │   ├── NGLClient_CoreSync16.6.4.2.log
+│   │   │   ├── NGLClient_CoreSync17.0.0.9.log
+│   │   │   ├── NGLClient_CoreSync17.1.0.9.log
+│   │   │   ├── NGLClient_CoreSync17.1.1.1.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-16 11-29-11-844-x.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-17 00-38-51-033-x.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-17 14-49-08-688.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-18 04-51-14-370-x.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-18 16-05-52-277-x.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-19 06-09-57-013-x.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2 2024-07-19 17-55-46-096-x.log
+│   │   │   ├── NGLClient_CoreSync17.1.2.2.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-07-20 22-49-13-397-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-07-25 13-47-44-423-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-07-25 17-13-25-095-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-07-25 20-16-14-481-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-07-26 10-47-45-492-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-08-04 18-52-41-061-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-08-06 18-45-06-731-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-08-07 09-57-54-640-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-08-21 17-29-06-814-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-08-21 18-53-28-067-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-08-23 10-14-58-588-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-09-02 19-44-33-902-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-09-03 05-23-17-589-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-09-04 15-32-51-355-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-09-08 13-38-42-439-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-10-08 21-25-59-837-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-10-10 19-19-48-435-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-10-15 17-02-20-486-x.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-11-03 02-09-04-081.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-11-03 14-55-56-791.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-11-04 06-08-50-076.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-11-04 18-07-45-845.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58 2024-11-11 21-50-11-252.log
+│   │   │   ├── NGLClient_CoreSync17.2.0.58.log
+│   │   │   ├── NGLClient_CreativeCloud2.ngllogcontrolconfig
+│   │   │   ├── NGLClient_CreativeCloud25.11.0.522.1.log
+│   │   │   ├── NGLClient_CreativeCloud26.0.0.571.log
+│   │   │   ├── NGLClient_CreativeCloud26.1.0.587.7.log
+│   │   │   ├── NGLClient_CreativeCloud26.1.0.587.log
+│   │   │   ├── NGLClient_CreativeCloud26.2.0.554.log
+│   │   │   ├── NGLClient_CreativeCloud26.3.0.207.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-06 23-21-50-134-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-07 05-08-47-188-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-07 11-16-37-951-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-07 18-16-36-414-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-08 18-00-30-525-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-09 19-19-26-032-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-10 01-36-35-457-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-10 12-46-16-542-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-10 17-03-10-423-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-11 00-21-05-426-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-11 11-35-53-051-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-11 21-50-03-149-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-12 10-55-39-553-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-12 17-31-19-408-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-12 22-03-42-470-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-13 03-19-21-494-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-13 21-10-14-519-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-14 16-07-04-523-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-14 23-40-04-219-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-15 17-33-01-093-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-16 13-25-00-181-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-16 19-28-36-270-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-17 20-11-50-701-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-18 01-05-59-584-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-18 06-05-06-314-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-18 15-17-19-733-x.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-18 21-49-56-701.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-19 17-37-00-587.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-19 22-35-45-384.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361 2024-11-20 16-50-29-173.log
+│   │   │   ├── NGLClient_CreativeCloud26.4.0.361.log
+│   │   │   ├── NGLClient_Illustrator1.ngllogcontrolconfig
+│   │   │   ├── NGLClient_Illustrator127.9.0.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2024-11-21 08-31-14-919.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2024-11-21 16-53-46-143.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2024-11-22 01-21-35-088.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2024-11-22 16-37-22-218.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2024-11-22 16-38-02-570.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2024-11-22 16-38-41-828.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-01-24 10-03-12-971.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-01-27 22-36-40-283.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-01-28 14-49-47-024.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-01-28 20-57-57-405.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-01-29 19-01-11-976.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-01-30 22-54-36-589.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-01 05-01-04-912.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-03 11-09-21-727.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-04 16-52-47-913.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-04 21-24-14-426.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-05 03-44-29-019.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-05 09-21-28-392.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-05 17-11-06-072.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-06 12-44-33-218.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-07 00-14-25-653.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-07 23-11-57-173.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-08 03-52-50-904.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-08 08-29-59-735.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-08 14-55-19-817.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-08 19-31-25-181.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-09 00-32-58-002.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-09 22-29-46-871.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-10 23-43-50-444.log
+│   │   │   ├── NGLClient_Illustrator129.0.1 2025-02-11 15-22-32-222.log
+│   │   │   ├── NGLClient_Illustrator129.0.1.log
+│   │   │   ├── NGLClient_default.log
+│   │   │   ├── NglFeatureConfig
+│   │   │   ├── NglIEvtAppOPMPDStg_CreativeCloud2
+│   │   │   └── NglIEvtOPMPDStg
+│   │   ├── OneDrive
+│   │   │   ├── Common
+│   │   │   ├── ListSync
+│   │   │   ├── Personal
+│   │   │   ├── Updater
+│   │   │   ├── standaaloneUpdaterTelemetryCache.otc
+│   │   │   ├── standaaloneUpdaterTelemetryCache.otc-shm
+│   │   │   ├── standaaloneUpdaterTelemetryCache.otc-wal
+│   │   │   └── updaterTelemetryCache.otc
+│   │   ├── PDApp.log
+│   │   ├── PhotosLegacyUpgrade.aapbz
+│   │   ├── PhotosUpgrade.aapbz
+│   │   ├── PhotosUpgrade.aapbz.old
+│   │   ├── SMSMigrator
+│   │   │   └── SMSMigrator.log
+│   │   ├── SiriTTSService
+│   │   ├── YandexMusic
+│   │   │   └── main.log
+│   │   ├── ZoomPhone
+│   │   │   └── ProcessInfo.plist
+│   │   ├── com.apple.AMPLibraryAgent
+│   │   │   └── iTunes Migration
+│   │   ├── com.apple.wifi.syncable-networks.legacy.plist
+│   │   ├── com.apple.wifi.syncable-networks.plist
+│   │   ├── fsck_hfs.log
+│   │   ├── ims.log -> /Users/liza/Library/Logs/CoreTelephonyTraceScratch/ims-2022-03-02-19-28-26.log
+│   │   ├── oobelib.log
+│   │   └── zoom.us
+│   │       ├── crashlog
+│   │       └── monitor__35685_20221006_00.log
+│   ├── Mail  [error opening dir]
+│   ├── Maps
+│   │   └── ReportAProblem
+│   │       └── Notifications
+│   ├── Messages  [error opening dir]
+│   ├── Metadata
+│   │   ├── Assets
+│   │   │   └── com.apple.MobileAsset.SpotlightResources.plist
+│   │   ├── CoreSpotlight  [error opening dir]
+│   │   └── com.apple.IntelligentSuggestions  [error opening dir]
+│   ├── Mobile Documents  [error opening dir]
+│   ├── NGL
+│   ├── News
+│   │   └── com.apple.news.public-com.apple.news.private-production
+│   ├── PDF Services
+│   ├── Passes
+│   │   ├── AuxiliaryCapabilityTasks_v6.archive
+│   │   ├── Cards
+│   │   ├── NotificationServiceTasks_v6.archive
+│   │   ├── PaymentWebServiceContext.archive
+│   │   ├── PeerPaymentWebServiceContext.archive
+│   │   ├── Receipts
+│   │   ├── RemoteDevices.archive
+│   │   ├── ScheduledActivities.archive
+│   │   ├── WebServiceTasks_v6.archive
+│   │   └── passes23.sqlite
+│   ├── PersonalizationPortrait  [error opening dir]
+│   ├── Photos
+│   │   └── Libraries
+│   │       └── Syndication.photoslibrary
+│   ├── PreferencePanes
+│   ├── Preferences
+│   │   ├── AIRobin 27.9.0 Settings
+│   │   │   └── en_US
+│   │   ├── AIRobin 29.0.1 Settings
+│   │   │   └── ru_RU
+│   │   ├── Adobe
+│   │   │   ├── Adobe Illustrator
+│   │   │   ├── Color
+│   │   │   └── CoreSync
+│   │   ├── Adobe Illustrator 27 Settings
+│   │   │   └── en_US
+│   │   ├── Adobe Illustrator 29 Settings
+│   │   │   └── ru_RU
+│   │   ├── Adobe Photoshop 2022 Settings
+│   │   │   ├── ColorHalftone Filter Prefs.psp
+│   │   │   ├── Colored Pencil Prefs.psp
+│   │   │   ├── Effect Prefs.psp
+│   │   │   ├── Filter Gallery Prefs.psp
+│   │   │   ├── Glowing Edges Prefs.psp
+│   │   │   ├── RadialBlur Filter Prefs.psp
+│   │   │   └── SmartBlur Filter Prefs.psp
+│   │   ├── ByHost
+│   │   │   ├── com.apple.AMPLibraryAgent.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.AOSKit.RegInfo.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.AOSPushRelay.TopicInfo.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.Bluetooth.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.CrashReporter.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.EscrowSecurityAlert.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.FaceTime.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.MIDI.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.ManagedClient.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.Music.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.QuickLookDaemon.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.TV.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.accessibility.universalAccessAuthWarn.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.commcenter.csidata.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.configurationprofiles.user.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.controlcenter.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.desktop.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.dock.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.dock.extra.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.finder.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.identityservicesd.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.imservice.SMS.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.imservice.ids.FaceTime.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.imservice.ids.iMessage.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.loginwindow.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.metrickitd.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.screensaver.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.settings.storage.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.sharingd.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.soundpref.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.systempreferences.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.universalcontrol.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.apple.windowserver.displays.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.hnc.Discord.ShipIt.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── com.microsoft.VSCode.ShipIt.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   ├── ru.yandex.desktop.music.ShipIt.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   │   └── system_profiler.E3E8CFF2-ED3F-5E1A-B6CF-4F7A92360891.plist
+│   │   ├── ContextStoreAgent.plist
+│   │   ├── MiniLauncher.plist
+│   │   ├── MobileMeAccounts.plist
+│   │   ├── UBF8T346G9.OfficeOneDriveSyncIntegration.plist
+│   │   ├── ZoomChat.plist
+│   │   ├── com.adobe.AIRobin.plist
+│   │   ├── com.adobe.CSXS.11.plist
+│   │   ├── com.adobe.Install.plist
+│   │   ├── com.adobe.acc.AdobeCreativeCloud.plist
+│   │   ├── com.adobe.acc.AdobeDesktopService.plist
+│   │   ├── com.adobe.acc.HEXHelper.Renderer.plist
+│   │   ├── com.adobe.accmac.plist
+│   │   ├── com.adobe.cep.CEPHtmlEngine Helper (Renderer).plist
+│   │   ├── com.adobe.crashreporter.plist
+│   │   ├── com.adobe.illustrator.plist
+│   │   ├── com.adobe.mediabrowser.plist
+│   │   ├── com.antlabsolutions.AntConc.plist
+│   │   ├── com.apple.AMPLibraryAgent.plist
+│   │   ├── com.apple.APFSUserAgent.plist
+│   │   ├── com.apple.Accessibility.Assets.plist
+│   │   ├── com.apple.Accessibility.plist
+│   │   ├── com.apple.AccessibilityVisualsAgent.plist
+│   │   ├── com.apple.ActivityMonitor.plist
+│   │   ├── com.apple.AdLib.plist
+│   │   ├── com.apple.AdPlatforms.plist
+│   │   ├── com.apple.AddressBook.plist
+│   │   ├── com.apple.AppStore.plist
+│   │   ├── com.apple.AppleMediaServices.notbackedup.plist
+│   │   ├── com.apple.AppleMediaServices.plist
+│   │   ├── com.apple.AppleMediaServicesUI.plist
+│   │   ├── com.apple.AppleMultitouchMouse.plist
+│   │   ├── com.apple.AppleMultitouchTrackpad.plist
+│   │   ├── com.apple.Automator.plist
+│   │   ├── com.apple.AvatarUI.Staryu.plist
+│   │   ├── com.apple.BatteryCenter.BatteryWidget.plist
+│   │   ├── com.apple.BezelServices.plist
+│   │   ├── com.apple.CacheDelete.plist
+│   │   ├── com.apple.CallHistorySyncHelper.plist
+│   │   ├── com.apple.CharacterPicker.plist
+│   │   ├── com.apple.ClassKit-Settings.extension.plist
+│   │   ├── com.apple.Classroom-Settings.extension.plist
+│   │   ├── com.apple.CloudKit.ShareBear.plist
+│   │   ├── com.apple.CloudKit.plist
+│   │   ├── com.apple.CloudSubscriptionFeatures.cache.plist
+│   │   ├── com.apple.CloudSubscriptionFeatures.config.plist
+│   │   ├── com.apple.CloudSubscriptionFeatures.geoCache.plist
+│   │   ├── com.apple.ComfortSounds.plist
+│   │   ├── com.apple.CommCenter.counts.plist
+│   │   ├── com.apple.CoreDuet.plist
+│   │   ├── com.apple.CoreGraphics.plist
+│   │   ├── com.apple.DataDeliveryServices.plist
+│   │   ├── com.apple.DiagnosticExtensions.extensionTracker.plist
+│   │   ├── com.apple.DictionaryServices.plist
+│   │   ├── com.apple.EmojiCache.plist
+│   │   ├── com.apple.EmojiPreferences.plist
+│   │   ├── com.apple.EscrowSecurityAlert.plist
+│   │   ├── com.apple.FaceTime.plist
+│   │   ├── com.apple.FamilyCircle.plist
+│   │   ├── com.apple.FolderActionsDispatcher.plist
+│   │   ├── com.apple.FontRegistry.user.plist
+│   │   ├── com.apple.GEO.plist
+│   │   ├── com.apple.HIToolbox.plist
+│   │   ├── com.apple.HearingAids.plist
+│   │   ├── com.apple.Home.plist
+│   │   ├── com.apple.Home.wallpaper.plist
+│   │   ├── com.apple.IMCoreSpotlight.plist
+│   │   ├── com.apple.Image_Capture.plist
+│   │   ├── com.apple.Keyboard-Settings.extension.plist
+│   │   ├── com.apple.LaunchServices
+│   │   │   ├── com.apple.LaunchServices.SettingsStore.sql
+│   │   │   ├── com.apple.LaunchServices.plist
+│   │   │   └── com.apple.launchservices.secure.plist
+│   │   ├── com.apple.LaunchServices.QuarantineEventsV2
+│   │   ├── com.apple.Maps.mapssyncd.plist
+│   │   ├── com.apple.Maps.plist
+│   │   ├── com.apple.Messages.plist
+│   │   ├── com.apple.MobileSMS.plist
+│   │   ├── com.apple.MobileSMSPreview.plist
+│   │   ├── com.apple.Music.eq.plist
+│   │   ├── com.apple.Music.plist
+│   │   ├── com.apple.NewDeviceOutreach.plist
+│   │   ├── com.apple.PhotoBooth.plist
+│   │   ├── com.apple.Preferences.plist
+│   │   ├── com.apple.ProblemReporter.plist
+│   │   ├── com.apple.ReportCrash.plist
+│   │   ├── com.apple.Safari.PasswordBreachAgent.plist
+│   │   ├── com.apple.Safari.SafeBrowsing.plist
+│   │   ├── com.apple.Safari.SandboxBroker.plist
+│   │   ├── com.apple.SafariBookmarksSyncAgent.plist
+│   │   ├── com.apple.SafariCloudHistoryPushAgent.plist
+│   │   ├── com.apple.ServicesMenu.Services.plist
+│   │   ├── com.apple.SetupAssistant.plist
+│   │   ├── com.apple.Siri.plist
+│   │   ├── com.apple.SoftwareUpdate.plist
+│   │   ├── com.apple.SpeakSelection.plist
+│   │   ├── com.apple.SpeechRecognitionCore.plist
+│   │   ├── com.apple.SpeechRecognitionCore.speechrecognitiond.plist
+│   │   ├── com.apple.Spotlight.plist
+│   │   ├── com.apple.StatusKitAgent.plist
+│   │   ├── com.apple.StorageManagement.Service.plist
+│   │   ├── com.apple.SystemProfiler.plist
+│   │   ├── com.apple.TTY.plist
+│   │   ├── com.apple.TV.plist
+│   │   ├── com.apple.TelephonyUtilities.plist
+│   │   ├── com.apple.TelephonyUtilities.sharePlayAppPolicies.plist
+│   │   ├── com.apple.Terminal.plist
+│   │   ├── com.apple.TextInputMenu.plist
+│   │   ├── com.apple.TextInputMenuAgent.plist
+│   │   ├── com.apple.TrustedPeersHelper.plist
+│   │   ├── com.apple.UserAccountUpdater.plist
+│   │   ├── com.apple.Wallpaper-Settings.extension.plist
+│   │   ├── com.apple.WatchListKit.plist
+│   │   ├── com.apple.WindowManager.plist
+│   │   ├── com.apple.accessibility.universalAccessAuthWarn.plist
+│   │   ├── com.apple.accounts.plist
+│   │   ├── com.apple.accounts.suggestions.plist
+│   │   ├── com.apple.accountsd.plist
+│   │   ├── com.apple.amp.mediasharingd.plist
+│   │   ├── com.apple.amsaccountsd.plist
+│   │   ├── com.apple.amsengagementd.plist
+│   │   ├── com.apple.animoji.plist
+│   │   ├── com.apple.ap.adprivacyd.plist
+│   │   ├── com.apple.appkit.xpc.openAndSavePanelService.plist
+│   │   ├── com.apple.appleaccountd.plist
+│   │   ├── com.apple.appstored.plist
+│   │   ├── com.apple.assistant.backedup.plist
+│   │   ├── com.apple.assistant.plist
+│   │   ├── com.apple.assistant.support.plist
+│   │   ├── com.apple.assistant_service.plist
+│   │   ├── com.apple.assistantd.plist
+│   │   ├── com.apple.audio.InfoHelper.plist
+│   │   ├── com.apple.biomesyncd.plist
+│   │   ├── com.apple.bird.plist
+│   │   ├── com.apple.bluetoothuserd.plist
+│   │   ├── com.apple.bookdatastored.plist
+│   │   ├── com.apple.bookstoreagent.plist
+│   │   ├── com.apple.calaccessd.plist
+│   │   ├── com.apple.calculateframework.plist
+│   │   ├── com.apple.chronod.plist
+│   │   ├── com.apple.classroom.plist
+│   │   ├── com.apple.cloud.quota.plist
+│   │   ├── com.apple.cloudd.plist
+│   │   ├── com.apple.cloudpaird.plist
+│   │   ├── com.apple.cloudphotod.plist
+│   │   ├── com.apple.cmfsyncagent.plist
+│   │   ├── com.apple.commcenter.callservices.plist
+│   │   ├── com.apple.commcenter.data.plist
+│   │   ├── com.apple.commcenter.plist
+│   │   ├── com.apple.commerce.configurator.plist
+│   │   ├── com.apple.commerce.knownclients.plist
+│   │   ├── com.apple.commerce.plist
+│   │   ├── com.apple.contextsync.subscriptions.plist
+│   │   ├── com.apple.controlcenter.plist
+│   │   ├── com.apple.controlstrip.plist
+│   │   ├── com.apple.coreauthd.plist
+│   │   ├── com.apple.coreservices.UASharedPasteboardProgressUI.plist
+│   │   ├── com.apple.coreservices.uiagent.plist
+│   │   ├── com.apple.coreservices.useractivityd.dynamicuseractivites.plist
+│   │   ├── com.apple.coreservices.useractivityd.plist
+│   │   ├── com.apple.corespotlightui.plist
+│   │   ├── com.apple.dataaccess.babysitter.plist
+│   │   ├── com.apple.dataaccess.dataaccessd.plist
+│   │   ├── com.apple.diagnosticextensionsd.plist
+│   │   ├── com.apple.dock.extra.plist
+│   │   ├── com.apple.dock.plist
+│   │   ├── com.apple.donotdisturbd.plist
+│   │   ├── com.apple.driver.AppleBluetoothMultitouch.mouse.plist
+│   │   ├── com.apple.driver.AppleBluetoothMultitouch.trackpad.plist
+│   │   ├── com.apple.driver.AppleHIDMouse.plist
+│   │   ├── com.apple.facetime.bag.plist
+│   │   ├── com.apple.fileproviderd.plist
+│   │   ├── com.apple.financed.plist
+│   │   ├── com.apple.finder.plist
+│   │   ├── com.apple.findmy.findmylocateagent.plist
+│   │   ├── com.apple.findmy.fmfcore.notbackedup.plist
+│   │   ├── com.apple.findmy.fmipcore.notbackedup.plist
+│   │   ├── com.apple.findmy.plist
+│   │   ├── com.apple.frameworks.diskimages.diuiagent.plist
+│   │   ├── com.apple.freeform.plist
+│   │   ├── com.apple.gamecenter.plist
+│   │   ├── com.apple.gamed.plist
+│   │   ├── com.apple.help.plist
+│   │   ├── com.apple.helpd.plist
+│   │   ├── com.apple.homed.notbackedup.plist
+│   │   ├── com.apple.homed.plist
+│   │   ├── com.apple.homeenergyd.plist
+│   │   ├── com.apple.iApps.plist
+│   │   ├── com.apple.iCal.plist
+│   │   ├── com.apple.iChat.plist
+│   │   ├── com.apple.iCloudNotificationAgent.plist
+│   │   ├── com.apple.iTunes.plist
+│   │   ├── com.apple.icloud.fmfd.notbackedup.plist
+│   │   ├── com.apple.icloud.fmfd.plist
+│   │   ├── com.apple.icloud.fmip.clientconfiguration.plist
+│   │   ├── com.apple.icloud.fmip.voiceassistantsync.invalidation.plist
+│   │   ├── com.apple.icloud.fmip.voiceassistantsync.plist
+│   │   ├── com.apple.icloud.searchpartyuseragent.plist
+│   │   ├── com.apple.iclouddrive.features.plist
+│   │   ├── com.apple.identityservicesd.plist
+│   │   ├── com.apple.ids.deviceproperties.plist
+│   │   ├── com.apple.ids.plist
+│   │   ├── com.apple.ids.subservices.plist
+│   │   ├── com.apple.imagecapture.plist
+│   │   ├── com.apple.imagent.plist
+│   │   ├── com.apple.imdpersistence.IMDPersistenceAgent.plist
+│   │   ├── com.apple.imessage.bag.plist
+│   │   ├── com.apple.imessage.plist
+│   │   ├── com.apple.imservice.ids.FaceTime.plist
+│   │   ├── com.apple.imservice.ids.iMessage.plist
+│   │   ├── com.apple.internal.ck.plist
+│   │   ├── com.apple.ipTelephony.plist
+│   │   ├── com.apple.itunescloud.daemon.plist
+│   │   ├── com.apple.itunescloud.plist
+│   │   ├── com.apple.itunesstored.plist
+│   │   ├── com.apple.java.util.prefs.plist
+│   │   ├── com.apple.keyboardservicesd.plist
+│   │   ├── com.apple.knowledge-agent.plist
+│   │   ├── com.apple.locationmenu.plist
+│   │   ├── com.apple.loginwindow.plist
+│   │   ├── com.apple.madrid.plist
+│   │   ├── com.apple.mail-shared.plist
+│   │   ├── com.apple.mediaaccessibility.public.plist
+│   │   ├── com.apple.mediaanalysisd.plist
+│   │   ├── com.apple.mediaplaybackcore.plist
+│   │   ├── com.apple.menuextra.clock.plist
+│   │   ├── com.apple.messages.commsafety.plist
+│   │   ├── com.apple.messages.nicknames.plist
+│   │   ├── com.apple.messages.pinning.plist
+│   │   ├── com.apple.metrickitd.plist
+│   │   ├── com.apple.mlhost.plist
+│   │   ├── com.apple.mlruntimed.plist
+│   │   ├── com.apple.mmcs.plist
+│   │   ├── com.apple.mobileipod.plist
+│   │   ├── com.apple.mobiletimer.plist
+│   │   ├── com.apple.mobiletimerd.plist
+│   │   ├── com.apple.ncprefs.plist
+│   │   ├── com.apple.networkserviceproxy.plist
+│   │   ├── com.apple.newscore2.plist
+│   │   ├── com.apple.onetimepasscodes.plist
+│   │   ├── com.apple.osprey.plist
+│   │   ├── com.apple.parsecd.plist
+│   │   ├── com.apple.passd.class-d.plist
+│   │   ├── com.apple.passd.plist
+│   │   ├── com.apple.people.plist
+│   │   ├── com.apple.photos.shareddefaults.plist
+│   │   ├── com.apple.pipagent.plist
+│   │   ├── com.apple.preference.general.plist
+│   │   ├── com.apple.preferences.extensions.CredentialProvider.plist
+│   │   ├── com.apple.preferences.extensions.PhotoEditing.plist
+│   │   ├── com.apple.preferences.extensions.PhotoProjects.plist
+│   │   ├── com.apple.preferences.extensions.QuickLook.plist
+│   │   ├── com.apple.preferences.extensions.ServicesWithUI.plist
+│   │   ├── com.apple.preferences.extensions.ShareMenu.plist
+│   │   ├── com.apple.preferences.extensions.XcodeSourceEditor.plist
+│   │   ├── com.apple.preferences.softwareupdate.plist
+│   │   ├── com.apple.print.custompresets.plist
+│   │   ├── com.apple.proactive.PersonalizationPortrait.plist
+│   │   ├── com.apple.protectedcloudstorage.protectedcloudkeysyncing.plist
+│   │   ├── com.apple.quicklook.ThumbnailsAgent.plist
+│   │   ├── com.apple.rapport.plist
+│   │   ├── com.apple.registration.plist
+│   │   ├── com.apple.remindd.babysitter.plist
+│   │   ├── com.apple.remindd.plist
+│   │   ├── com.apple.scheduler.plist
+│   │   ├── com.apple.screencapture.plist
+│   │   ├── com.apple.screencaptureui.plist
+│   │   ├── com.apple.screensaver.plist
+│   │   ├── com.apple.scriptmenu.plist
+│   │   ├── com.apple.secureelementservice.aapp.plist
+│   │   ├── com.apple.security.KCN.plist
+│   │   ├── com.apple.security.cloudkeychainproxy3.keysToRegister.plist
+│   │   ├── com.apple.security.ctkd-db.plist
+│   │   ├── com.apple.security.pboxd.plist
+│   │   ├── com.apple.security.sosaccount.plist
+│   │   ├── com.apple.seeding.plist
+│   │   ├── com.apple.seserviced.plist
+│   │   ├── com.apple.settings.Storage.plist
+│   │   ├── com.apple.sharingd.plist
+│   │   ├── com.apple.sidecar.annotations.plist
+│   │   ├── com.apple.sidecar.display.plist
+│   │   ├── com.apple.siri.DialogEngine.plist
+│   │   ├── com.apple.siri.VoiceShortcuts.plist
+│   │   ├── com.apple.siri.context.service.plist
+│   │   ├── com.apple.siri.embeddedspeech.plist
+│   │   ├── com.apple.siri.morphun.plist
+│   │   ├── com.apple.siri.shortcuts.plist
+│   │   ├── com.apple.siriactionsd.plist
+│   │   ├── com.apple.siriknowledged.plist
+│   │   ├── com.apple.sms.plist
+│   │   ├── com.apple.sociallayerd.CloudKit.ckwriter.plist
+│   │   ├── com.apple.sociallayerd.plist
+│   │   ├── com.apple.spaces.plist
+│   │   ├── com.apple.speech.recognition.AppleSpeechRecognition.CustomCommands.plist
+│   │   ├── com.apple.speech.recognition.AppleSpeechRecognition.prefs.plist
+│   │   ├── com.apple.speech.voice.prefs.plist
+│   │   ├── com.apple.spotlight.mdwrite.plist
+│   │   ├── com.apple.spotlightknowledge.plist
+│   │   ├── com.apple.stockholm.plist
+│   │   ├── com.apple.stocks.account.plist
+│   │   ├── com.apple.storeagent.plist
+│   │   ├── com.apple.studentd.plist
+│   │   ├── com.apple.suggestd.plist
+│   │   ├── com.apple.suggestions.plist
+│   │   ├── com.apple.symbolichotkeys.plist
+│   │   ├── com.apple.sync.NanoHome.plist
+│   │   ├── com.apple.syncdefaultsd.plist
+│   │   ├── com.apple.systempreferences.plist
+│   │   ├── com.apple.systemsettings.extensions.plist
+│   │   ├── com.apple.systemuiserver.plist
+│   │   ├── com.apple.talagent.plist
+│   │   ├── com.apple.textInput.keyboardServices.textReplacement.plist
+│   │   ├── com.apple.tipsd.plist
+│   │   ├── com.apple.tourist.plist
+│   │   ├── com.apple.touristd.plist
+│   │   ├── com.apple.translationd.plist
+│   │   ├── com.apple.transparencyd.plist
+│   │   ├── com.apple.triald.plist
+│   │   ├── com.apple.universalaccess.plist
+│   │   ├── com.apple.universalaccessAuthWarning.plist
+│   │   ├── com.apple.visualintelligence.plist
+│   │   ├── com.apple.voiceservices.plist
+│   │   ├── com.apple.voicetrigger.notbackedup.plist
+│   │   ├── com.apple.voicetrigger.plist
+│   │   ├── com.apple.wallpaper.plist
+│   │   ├── com.apple.weather.internal.plist
+│   │   ├── com.apple.weather.sensitive.plist
+│   │   ├── com.apple.wifi.WiFiAgent.plist
+│   │   ├── com.apple.xpc.activity2.plist
+│   │   ├── com.bitTorrent.utweb.plist
+│   │   ├── com.ea.EACefSubProcessRenderer.plist
+│   │   ├── com.ea.Origin.plist
+│   │   ├── com.google.Chrome.plist
+│   │   ├── com.google.Keystone.Agent.plist
+│   │   ├── com.hnc.Discord.plist
+│   │   ├── com.jetbrains.pycharm.ce.plist
+│   │   ├── com.microsoft.OneDrive.plist
+│   │   ├── com.microsoft.OneDriveStandaloneUpdater.plist
+│   │   ├── com.microsoft.OneDriveUpdater.plist
+│   │   ├── com.microsoft.SharePoint-mac.plist
+│   │   ├── com.microsoft.VSCode.plist
+│   │   ├── com.microsoft.autoupdate.fba.plist
+│   │   ├── com.microsoft.autoupdate2.plist
+│   │   ├── com.microsoft.office.plist
+│   │   ├── com.microsoft.shared.plist
+│   │   ├── com.qtproject.plist
+│   │   ├── diagnostics_agent.plist
+│   │   ├── familycircled.plist
+│   │   ├── jetbrains.jetprofile.asset.plist
+│   │   ├── knowledge-agent.plist
+│   │   ├── loginwindow.plist
+│   │   ├── mbuseragent.plist
+│   │   ├── org.jcef.jcef.helper.renderer.plist
+│   │   ├── pbs.plist
+│   │   ├── replayd.plist
+│   │   ├── ru.yandex.Telemost.plist
+│   │   ├── ru.yandex.desktop.music.plist
+│   │   ├── sharedfilelistd.plist
+│   │   ├── siriknowledged.plist
+│   │   ├── system_profiler.plist
+│   │   ├── systemgroup.com.apple.icloud.searchpartyd.sharedsettings.plist
+│   │   ├── us.zoom.ZoomAutoUpdater.plist
+│   │   └── us.zoom.xos.plist
+│   ├── Printers
+│   ├── Python
+│   │   └── 3.9
+│   │       ├── bin
+│   │       ├── lib
+│   │       └── share
+│   ├── Reminders  [error opening dir]
+│   ├── Safari  [error opening dir]
+│   ├── SafariSafeBrowsing
+│   │   └── SafeBrowsingRemoteConfiguration-0.plist
+│   ├── SafariSandboxBroker
+│   ├── Saved Application State
+│   │   ├── com.EA.EA-app-Migrator.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.adobe.illustrator.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.antlabsolutions.AntConc.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.apple.AddressBook.savedState -> /Users/liza/Library/Containers/com.apple.AddressBook/Data/Library/Saved Application State/com.apple.AddressBook.savedState
+│   │   ├── com.apple.AppStore.savedState -> /Users/liza/Library/Containers/com.apple.AppStore/Data/Library/Saved Application State/com.apple.AppStore.savedState
+│   │   ├── com.apple.Automator.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.apple.InstallAssistant.macOSMonterey.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.apple.Notes.savedState -> /Users/liza/Library/Containers/com.apple.Notes/Data/Library/Saved Application State/com.apple.Notes.savedState
+│   │   ├── com.apple.PhotoBooth.savedState -> /Users/liza/Library/Containers/com.apple.PhotoBooth/Data/Library/Saved Application State/com.apple.PhotoBooth.savedState
+│   │   ├── com.apple.Photos.savedState -> /Users/liza/Library/Containers/com.apple.Photos/Data/Library/Saved Application State/com.apple.Photos.savedState
+│   │   ├── com.apple.Preview.savedState -> /Users/liza/Library/Containers/com.apple.Preview/Data/Library/Saved Application State/com.apple.Preview.savedState
+│   │   ├── com.apple.Safari.savedState -> /Users/liza/Library/Containers/com.apple.Safari/Data/Library/Saved Application State/com.apple.Safari.savedState
+│   │   ├── com.apple.Terminal.savedState
+│   │   │   ├── data.data
+│   │   │   ├── window_5.data
+│   │   │   └── windows.plist
+│   │   ├── com.apple.finder.savedState
+│   │   │   ├── data.data
+│   │   │   ├── window_23.data
+│   │   │   └── windows.plist
+│   │   ├── com.apple.freeform.savedState -> /Users/liza/Library/Containers/com.apple.freeform/Data/Library/Saved Application State/com.apple.freeform.savedState
+│   │   ├── com.apple.iCal.savedState -> /Users/liza/Library/Containers/com.apple.iCal/Data/Library/Saved Application State/com.apple.iCal.savedState
+│   │   ├── com.apple.mail.savedState -> /Users/liza/Library/Containers/com.apple.mail/Data/Library/Saved Application State/com.apple.mail.savedState
+│   │   ├── com.apple.reminders.savedState -> /Users/liza/Library/Containers/com.apple.reminders/Data/Library/Saved Application State/com.apple.reminders.savedState
+│   │   ├── com.apple.systempreferences.savedState
+│   │   │   ├── data.data
+│   │   │   ├── window_1.data
+│   │   │   └── windows.plist
+│   │   ├── com.apple.wifi.diagnostics.savedState
+│   │   │   └── data.data
+│   │   ├── com.ea.mac.eaapp.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.google.Chrome.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.hnc.Discord.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.jetbrains.pycharm.ce.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.microsoft.Powerpoint.savedState -> /Users/liza/Library/Containers/com.microsoft.Powerpoint/Data/Library/Saved Application State/com.microsoft.Powerpoint.savedState
+│   │   ├── com.microsoft.VSCode.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── com.microsoft.Word.savedState -> /Users/liza/Library/Containers/com.microsoft.Word/Data/Library/Saved Application State/com.microsoft.Word.savedState
+│   │   ├── com.microsoft.autoupdate2.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   ├── ru.keepcoder.Telegram.savedState -> /Users/liza/Library/Containers/ru.keepcoder.Telegram/Data/Library/Saved Application State/ru.keepcoder.Telegram.savedState
+│   │   ├── ru.yandex.desktop.music.savedState
+│   │   │   ├── data.data
+│   │   │   └── windows.plist
+│   │   └── ru.yandex.desktop.telemost.savedState
+│   │       ├── data.data
+│   │       └── windows.plist
+│   ├── Screen Savers
+│   ├── ScreenRecordings
+│   ├── Scripts
+│   ├── Services
+│   ├── Sharing  [error opening dir]
+│   ├── Shortcuts  [error opening dir]
+│   ├── Sounds
+│   ├── Speech
+│   │   └── Speakable Items
+│   ├── Spelling
+│   │   ├── LocalDictionary
+│   │   └── dynamic-counts.dat
+│   ├── Staging
+│   ├── StatusKit  [error opening dir]
+│   ├── Suggestions  [error opening dir]
+│   ├── SyncedPreferences
+│   │   ├── com.apple.communicationsfilter.plist
+│   │   ├── com.apple.kvs
+│   │   ├── com.apple.syncedpreferences.plist
+│   │   ├── contactsdonationagent.plist
+│   │   ├── suggestd.plist
+│   │   └── touristd.plist
+│   ├── Translation
+│   │   ├── AssetsV3
+│   │   └── Hotfix
+│   │       └── 187-1
+│   ├── Trial  [error opening dir]
+│   ├── UnifiedAssetFramework
+│   │   └── UAFAssetSubscriptions.db
+│   ├── Weather  [error opening dir]
+│   ├── WebKit
+│   │   ├── Databases
+│   │   ├── WebPush
+│   │   │   ├── PushDatabase.db
+│   │   │   ├── PushDatabase.db-shm
+│   │   │   └── PushDatabase.db-wal
+│   │   ├── com.adobe.acc.AdobeCreativeCloud
+│   │   │   └── WebsiteData
+│   │   ├── com.adobe.acc.AdobeDesktopService
+│   │   │   └── WebsiteData
+│   │   ├── com.adobe.ccd.helper
+│   │   │   └── WebsiteData
+│   │   ├── com.adobe.illustrator
+│   │   │   └── WebsiteData
+│   │   ├── ru.yandex.desktop.telemost
+│   │   │   └── WebsiteData
+│   │   └── us.zoom.xos
+│   │       └── WebsiteData
+│   ├── Workflows
+│   │   └── Applications
+│   │       ├── Calendar
+│   │       ├── Folder Actions
+│   │       └── Image Capture
+│   ├── com.apple.aiml.instrumentation  [error opening dir]
+│   ├── com.apple.appleaccountd
+│   │   ├── CKTokens
+│   │   │   ├── Database
+│   │   │   └── Zone
+│   │   ├── IdentityRecord
+│   │   │   ├── D4BDBCC1-D1F4-4D39-BF97-27C32F23F3C1
+│   │   │   └── F18718DC-EC62-407E-A476-D479F6C0B3CB
+│   │   └── IdentityServiceRecord
+│   │       ├── 4A5C51E8-E438-4A81-84FC-1D48BC0F2604
+│   │       └── 66925975-9C51-4513-9F55-9E9F6F23EF16
+│   ├── com.apple.bluetooth.services.cloud
+│   │   ├── CKTokens
+│   │   │   ├── Database
+│   │   │   └── Zone
+│   │   ├── CachedRecords
+│   │   │   ├── 00000000-0000-0000-0000-00000000000C
+│   │   │   ├── AccessoryDatabase
+│   │   │   ├── DeviceRecord
+│   │   │   ├── DeviceSupportInformationRecord
+│   │   │   ├── MagicSettings
+│   │   │   └── MasterKey
+│   │   └── DeferredRecords
+│   │       ├── DeviceRecord
+│   │       ├── DeviceSupportInformationRecord
+│   │       └── MagicSettings
+│   ├── com.apple.bluetoothuser
+│   │   └── Production
+│   │       └── 001906-08-da67ac3d-7307-461d-82f7-a543452cee60
+│   ├── com.apple.iTunesCloud
+│   │   ├── play_activity.sqlitedb
+│   │   ├── play_activity.sqlitedb-shm
+│   │   └── play_activity.sqlitedb-wal
+│   ├── com.apple.icloud.searchpartyd
+│   │   ├── BeaconEstimatedLocation
+│   │   │   ├── 1150A026-24E4-4A8C-B860-5E0B7FEDD17E
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB
+│   │   ├── BeaconNamingRecord
+│   │   │   ├── 1150A026-24E4-4A8C-B860-5E0B7FEDD17E
+│   │   │   ├── 44D62A8A-F6FC-4BC9-B232-2106D9B3E6D0
+│   │   │   ├── 517B6AB2-4D7D-4AA4-81A4-6643C5E3C010
+│   │   │   ├── 6F0411A5-311B-46AE-BBF7-37CBECF62B63
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145
+│   │   │   ├── E51829D5-A5E1-4823-B796-8F624DD6F6D6
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB
+│   │   ├── BeaconObservationStore
+│   │   │   └── observations.plist
+│   │   ├── BeaconProductInfoRecord
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145.record
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB.record
+│   │   ├── CKTokens
+│   │   │   ├── Database
+│   │   │   └── Zone
+│   │   ├── KeyAlignmentRecords
+│   │   │   ├── 5206A65D-4AD1-446E-8C7F-47D9CE1D351B
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB
+│   │   ├── KeySyncRecord
+│   │   │   ├── 5206A65D-4AD1-446E-8C7F-47D9CE1D351B.record
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145.record
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB.record
+│   │   ├── LeashRecords
+│   │   │   └── F568FA58-9C54-4141-933E-9E08A33FCEF9.record
+│   │   ├── LostModeRecords
+│   │   │   └── 2E461A74-DAB8-4BB6-A9C6-6EB96596C26E
+│   │   ├── NotifyWhenFoundRecords
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB
+│   │   ├── OwnedBeaconGroups
+│   │   │   └── 2E461A74-DAB8-4BB6-A9C6-6EB96596C26E.record
+│   │   ├── OwnedBeacons
+│   │   │   ├── 1150A026-24E4-4A8C-B860-5E0B7FEDD17E.record
+│   │   │   ├── 44D62A8A-F6FC-4BC9-B232-2106D9B3E6D0.record
+│   │   │   ├── 517B6AB2-4D7D-4AA4-81A4-6643C5E3C010.record
+│   │   │   ├── 5206A65D-4AD1-446E-8C7F-47D9CE1D351B.record
+│   │   │   ├── 6F0411A5-311B-46AE-BBF7-37CBECF62B63.record
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145.record
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB.record
+│   │   ├── OwnedDeviceKeyRecord
+│   │   │   ├── BA2489DC-7B41-4A6F-8A48-76006CF3C145
+│   │   │   └── E64107F0-E88A-4603-81B7-CC64C7B448DB
+│   │   ├── SafeLocations
+│   │   │   ├── 29C205E9-FB3F-44D1-83D1-0D3A0175B425.record
+│   │   │   ├── 333CFE48-5ABE-47D3-9FD0-BDB453C9151A.record
+│   │   │   ├── 60C7F995-AE53-489B-996E-21446EE988F9.record
+│   │   │   ├── 77DBC02F-2047-43DF-BE75-36645F839675.record
+│   │   │   ├── C3101249-8795-4091-A368-5FD65E13A6A1.record
+│   │   │   ├── C750A2C8-69BB-4533-A553-5DE674D22F41.record
+│   │   │   ├── CA25D86C-4184-4BA0-90A0-83A4E96356FA.record
+│   │   │   └── EF170924-79EA-4A56-BF09-6855A13D52F2.record
+│   │   ├── SecureLocationCache
+│   │   │   └── 34C49EA4-301C-4800-938F-300663C193F5.record
+│   │   ├── SecureLocationInfo
+│   │   │   └── 58A33394-9F73-4426-B821-9B0E8FA1E439.record
+│   │   └── SecureLocationSharedKeys
+│   │       └── 34C49EA4-301C-4800-938F-300663C193F5.record
+│   ├── com.apple.internal.ck
+│   │   ├── history.db
+│   │   ├── main.db
+│   │   └── synched.db
+│   ├── homeenergyd
+│   │   └── com.apple.homeenergyd
+│   │       ├── LocalCache.store
+│   │       ├── LocalCache.store-shm
+│   │       └── LocalCache.store-wal
+│   └── studentd
+│       ├── AdHocConfiguration.plist
+│       ├── Container
+│       │   └── Library
+│       ├── Events
+│       │   └── LogEvents.db
+│       └── isConnected
+├── Movies
+│   └── TV
+│       ├── Media.localized
+│       └── TV Library.tvlibrary
+│           ├── Library Preferences.tvdb
+│           └── Library.tvdb
+├── Music
+│   ├── Audio Music Apps
+│   │   ├── Custom Icons
+│   │   ├── Databases
+│   │   │   └── Tags
+│   │   ├── Plug-In Settings
+│   │   │   └── Alchemy
+│   │   └── Sampler Instruments
+│   ├── GarageBand
+│   └── Music
+│       ├── Media.localized
+│       │   ├── Automatically Add to Music.localized
+│       │   └── Music
+│       ├── Music Library.musiclibrary
+│       │   ├── Application.musicdb
+│       │   ├── Extras.itdb
+│       │   ├── Genius.itdb
+│       │   ├── Library Preferences.musicdb
+│       │   ├── Library.musicdb
+│       │   ├── Preferences.plist
+│       │   └── sentinel
+│       └── Previous Libraries.localized
+│           └── Music Library [2024-01-21 18.22.24].musiclibrary
+├── Pictures
+│   ├── Медиатека Photo Booth
+│   │   ├── Contents
+│   │   │   └── PkgInfo
+│   │   ├── Originals
+│   │   │   ├── 4 17.11.2024 в 16.31 #2 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #3 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #4 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #5 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #6 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #7 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #8 (исходный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 (исходный).jpg
+│   │   │   ├── Фото 11.12.2024, 16.50 #2 (исходный).jpg
+│   │   │   ├── Фото 11.12.2024, 16.51 #2 (исходный).jpg
+│   │   │   ├── Фото 11.12.2024, 16.51 #3 (исходный).jpg
+│   │   │   ├── Фото 11.12.2024, 16.51 (исходный).jpg
+│   │   │   ├── Фото 11.12.2024, 16.52 #2 (исходный).jpg
+│   │   │   ├── Фото 11.12.2024, 16.52 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.32 #3 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.33 #2 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.33 #3 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.33 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.34 #2 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.34 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.35 #2 (исходный).jpg
+│   │   │   ├── Фото 28.11.2024, 22.35 (исходный).jpg
+│   │   │   └── Фото 28.11.2024, 22.36 (исходный).jpg
+│   │   ├── Pictures
+│   │   │   ├── 4 17.11.2024 в 16.31 #2.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #3.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #4.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #5 (компилированный).jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #5.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #6.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #7.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31 #8.jpg
+│   │   │   ├── 4 17.11.2024 в 16.31.jpg
+│   │   │   ├── Фото 05.12.2024, 16.08.jpg
+│   │   │   ├── Фото 11.12.2024, 16.49 #2.jpg
+│   │   │   ├── Фото 11.12.2024, 16.49 #3.jpg
+│   │   │   ├── Фото 11.12.2024, 16.49 #4.jpg
+│   │   │   ├── Фото 11.12.2024, 16.49 #5.jpg
+│   │   │   ├── Фото 11.12.2024, 16.49 #6.jpg
+│   │   │   ├── Фото 11.12.2024, 16.49.jpg
+│   │   │   ├── Фото 11.12.2024, 16.50 #2.jpg
+│   │   │   ├── Фото 11.12.2024, 16.50.jpg
+│   │   │   ├── Фото 11.12.2024, 16.51 #2.jpg
+│   │   │   ├── Фото 11.12.2024, 16.51 #3.jpg
+│   │   │   ├── Фото 11.12.2024, 16.51.jpg
+│   │   │   ├── Фото 11.12.2024, 16.52 #2.jpg
+│   │   │   ├── Фото 11.12.2024, 16.52.jpg
+│   │   │   ├── Фото 21.11.2024, 14.25.jpg
+│   │   │   ├── Фото 21.11.2024, 14.26 #2.jpg
+│   │   │   ├── Фото 21.11.2024, 14.26.jpg
+│   │   │   ├── Фото 28.11.2024, 22.31 #2.jpg
+│   │   │   ├── Фото 28.11.2024, 22.31 #3.jpg
+│   │   │   ├── Фото 28.11.2024, 22.31.jpg
+│   │   │   ├── Фото 28.11.2024, 22.32 #2.jpg
+│   │   │   ├── Фото 28.11.2024, 22.32 #3.jpg
+│   │   │   ├── Фото 28.11.2024, 22.32.jpg
+│   │   │   ├── Фото 28.11.2024, 22.33 #2.jpg
+│   │   │   ├── Фото 28.11.2024, 22.33 #3.jpg
+│   │   │   ├── Фото 28.11.2024, 22.33.jpg
+│   │   │   ├── Фото 28.11.2024, 22.34 #2.jpg
+│   │   │   ├── Фото 28.11.2024, 22.34.jpg
+│   │   │   ├── Фото 28.11.2024, 22.35 #2.jpg
+│   │   │   ├── Фото 28.11.2024, 22.35.jpg
+│   │   │   └── Фото 28.11.2024, 22.36.jpg
+│   │   └── Recents.plist
+│   └── Медиатека Фото.photoslibrary  [error opening dir]
+├── Public
+│   └── Drop Box
+└── homework
+
+2990 directories, 1774 files
+  
+  521  mkdir -p ~/Bioinformatics_2025/hw/hw_1/
+  522  cd ~/Bioinformatics_2025/hw/hw_1/
+  523  vim my_hw_file.txt
+  524  mv my_hw_file.txt hw_file_1.txt
+  525  mkdir ~/homework/
+  526  cp hw_file_1.txt ~/homework/
+  527  rm ~/homework/hw_file_1.txt
+  528  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  529  eval "$(/opt/homebrew/bin/brew shellenv)"\n
+  530  brew install tree\n
+  531  tree -L 4 ~ >> hw_file_1.txt
+  532  history >> hw_file_1.txt
